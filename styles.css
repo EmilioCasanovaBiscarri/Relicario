@@ -123,6 +123,10 @@ body {
   cursor: pointer;
 }
 
+/* Estadísticas: icono de barras sin borde, como en los demás juegos del Almanaque. */
+.icono-btn--liso { display: grid; place-items: center; border-color: transparent; background: transparent; box-shadow: none; }
+.icono-btn svg { width: 1.4rem; height: 1.4rem; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
+
 .icono-btn:hover { background: var(--tarjeta); }
 
 /* ---------- Pantallas ---------- */
@@ -439,6 +443,8 @@ body {
   gap: 8px;
   margin: 0 0 14px;
 }
+
+.cifras--cuatro { grid-template-columns: repeat(4, 1fr); text-align: center; }
 
 .cifras dt {
   font-size: 0.85rem;

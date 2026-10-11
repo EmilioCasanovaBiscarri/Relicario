@@ -601,6 +601,23 @@
     modal.scrollTop = 0;
   }
 
+  // Estadísticas: la misma ventana. Aciertos sobre el total de piezas de los días jugados.
+  function abrirEstadisticas() {
+    var jugados = Object.keys(estado.historial);
+    var piezas = jugados.reduce(function (s, d) { return s + diaDeContenido(dias, +d).reliquias.length; }, 0);
+    var acertadas = jugados.reduce(function (s, d) { return s + estado.historial[d]; }, 0);
+    modalCuerpo.innerHTML = '<h2 id="modal-titulo" tabindex="-1">Estadísticas</h2>' +
+      '<dl class="cifras cifras--cuatro">' +
+      '<div><dt>Jugados</dt><dd>' + jugados.length + '</dd></div>' +
+      '<div><dt>Aciertos</dt><dd>' + (piezas ? Math.round(acertadas / piezas * 100) : 0) + '%</dd></div>' +
+      '<div><dt>Racha</dt><dd>' + rachaVigente(estado, hoy) + '</dd></div>' +
+      '<div><dt>Mejor racha</dt><dd>' + estado.racha.maxima + '</dd></div>' +
+      '</dl>';
+    document.getElementById('modal-cerrar').textContent = 'Cerrar';
+    if (modal.showModal) { if (!modal.open) modal.showModal(); } else modal.setAttribute('open', '');
+    document.getElementById('modal-titulo').focus({ preventScroll: true });
+  }
+
   function cerrarAyuda() {
     if (modal.close) modal.close(); else { modal.removeAttribute('open'); alCerrarAyuda(); }
   }
@@ -610,6 +627,7 @@
   }
 
   document.getElementById('btn-ayuda').addEventListener('click', function () { abrirAyuda(false); });
+  document.getElementById('btn-estadisticas').addEventListener('click', abrirEstadisticas);
   document.getElementById('modal-cerrar').addEventListener('click', cerrarAyuda);
   modal.addEventListener('close', alCerrarAyuda);
   modal.addEventListener('click', function (ev) {

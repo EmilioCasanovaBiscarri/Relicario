@@ -39,7 +39,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=3">
+  <link rel="stylesheet" href="styles.css?v=4">
   <!-- Estilos de la portada en línea: así se pinta bien antes de que cargue styles.css.
        Los colores repiten --papel y --tinta de styles.css porque aún no existe. -->
   <style>
@@ -90,7 +90,9 @@
   </div>
   <div class="hoja">
     <header class="cabecera">
-      <span class="cabecera__hueco" aria-hidden="true"></span>
+      <button class="icono-btn icono-btn--liso" id="btn-estadisticas" type="button" aria-label="Estadísticas">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V11M10 20V5M16 20v-7M22 20H2"/></svg>
+      </button>
       <div class="cabecera__titulo">
         <h1><img class="cabecera__logo" src="icons/relicario-logo.svg" width="34" height="34" alt="">Relicario</h1>
         <p class="cabecera__sub" id="subtitulo">Gabinete de palabras fósiles</p>
@@ -112,6 +114,6 @@
 
   <script src="volver-almanaque.js?v=12" defer></script>
   <script src="datos.js?v=3"></script>
-  <script src="app.js?v=7"></script>
+  <script src="app.js?v=8"></script>
 </body>
 </html>
