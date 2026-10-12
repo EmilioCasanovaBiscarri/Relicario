@@ -89,3 +89,7 @@ marca las dos: `'Mirar de [hito] en [hito]'`.
 **Al publicar una versión nueva**, sube `CACHE_VERSION` en `sw.js` (`'v1'` →
 `'v2'`) y el `?v=` de los `<script>` y del CSS en `index.html`. Así los móviles
 que ya tienen la app instalada descargan la versión nueva.
+
+## Derechos de autor
+
+© 2026 Emilio Casanova Biscarri. Todos los derechos reservados. El código, los textos y los diseños de este repositorio no pueden copiarse ni reutilizarse sin permiso.
