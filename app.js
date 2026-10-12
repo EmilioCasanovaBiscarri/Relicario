@@ -599,7 +599,7 @@
     var piezas = jugados.reduce(function (s, d) { return s + diaDeContenido(dias, +d).reliquias.length; }, 0);
     var acertadas = jugados.reduce(function (s, d) { return s + estado.historial[d]; }, 0);
     return '<dl class="cifras cifras--cuatro ' + (clase || '') + '">' +
-      '<div><dt>Jugados</dt><dd>' + jugados.length + '</dd></div>' +
+      '<div><dt>Días</dt><dd>' + jugados.length + '</dd></div>' +
       '<div><dt>Aciertos</dt><dd>' + (piezas ? Math.round(acertadas / piezas * 100) : 0) + '%</dd></div>' +
       '<div><dt>Racha</dt><dd>' + rachaVigente(estado, hoy) + '</dd></div>' +
       '<div><dt>Mejor racha</dt><dd>' + estado.racha.maxima + '</dd></div>' +
