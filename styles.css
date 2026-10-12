@@ -103,13 +103,6 @@ body {
   gap: 8px;
 }
 
-.cabecera__sub {
-  margin: 4px 0 0;
-  font-style: italic;
-  font-size: 0.95rem;
-  color: var(--tinta-suave);
-}
-
 .icono-btn {
   width: 44px;
   height: 44px;
@@ -245,25 +238,10 @@ body {
 .vitrina {
   position: relative;
   margin: 18px 0 20px;
-  padding: 26px 18px 22px;
+  padding: 22px 18px;
   border: 3px double var(--tinta);
   background: var(--tarjeta);
   text-align: center;
-}
-
-/* Cartela de museo sobre el marco */
-.vitrina__rotulo {
-  position: absolute;
-  top: -0.8em;
-  left: 50%;
-  transform: translateX(-50%);
-  padding: 0 10px;
-  background: var(--papel);
-  font-family: var(--letra-titulo);
-  font-size: 0.95rem;
-  letter-spacing: 0.1em;
-  white-space: nowrap;
-  color: var(--tinta-suave);
 }
 
 .expresion {
@@ -669,5 +647,5 @@ body {
 @media (max-width: 360px) {
   body { font-size: 18px; }
   .cabecera h1 { font-size: 1.8rem; }
-  .vitrina { padding: 24px 12px 18px; }
+  .vitrina { padding: 18px 12px; }
 }

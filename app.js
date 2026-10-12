@@ -357,7 +357,6 @@
     else document.addEventListener('DOMContentLoaded', avisar, { once: true });
   }
 
-  function subtitulo(texto) { document.getElementById('subtitulo').textContent = texto; }
 
   function aviso(msg) {
     avisoEl.textContent = msg;
@@ -408,14 +407,12 @@
     var i = pos.indice;
     var rel = reliquiasHoy()[i];
     var orden = ordenOpciones(fechaISO(fechaHoy()), numeroPieza(i), rel.opciones.length);
-    subtitulo('Relicario del ' + fechaLarga(fechaHoy()));
 
     pintar(
       '<section class="pantalla pantalla--jugada">' +
       htmlProgreso(partida, i) +
       '<h2 class="kicker" data-foco tabindex="-1">Reliquia <span class="num">' + (i + 1) + '</span> de <span class="num">' + partida.respuestas.length + '</span></h2>' +
       '<figure class="vitrina">' +
-      '<figcaption class="vitrina__rotulo">Pieza n.º <span class="num">' + numeroPieza(i) + '</span></figcaption>' +
       '<p class="expresion">«' + htmlExpresion(rel.expresion) + '»</p>' +
       '</figure>' +
       '<p class="pregunta" id="pregunta">' + esc(rel.pregunta) + '</p>' +
@@ -505,7 +502,6 @@
     var n = aciertos(partida);
     var total = partida.respuestas.length;
     var racha = rachaVigente(estado, hoy);
-    subtitulo('Relicario del ' + fechaLarga(fechaHoy()));
 
     pintar(
       '<section class="pantalla pantalla--resultado">' +
@@ -547,7 +543,6 @@
   // ---------- Antes del primer día ----------
 
   function pantallaAntes() {
-    subtitulo('Gabinete de palabras fósiles');
     pintar(
       '<section class="pantalla pantalla--centro">' +
       '<h2 class="kicker" data-foco tabindex="-1">Próximamente</h2>' +
