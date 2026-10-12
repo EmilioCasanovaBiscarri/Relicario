@@ -383,36 +383,40 @@ body {
 
 /* ---------- Resultado ---------- */
 
+/* Pantalla final, igual en todos los juegos del Almanaque: ficha con el resultado, una línea
+   por pieza, estadísticas y botones. Todo cabe en el móvil sin desplazarse hasta los botones. */
+
 .marcador {
-  padding: 20px 16px 18px;
+  padding: 10px 16px 12px;
   border: 3px double var(--tinta);
   background: var(--tarjeta);
 }
 
-.marcador__cifra {
-  margin: 0;
-  font-family: var(--letra-titulo);
-  line-height: 1;
-  color: var(--tinta);
-}
-
-.marcador__cifra b { font-weight: 500; font-size: 3.6rem; color: var(--rojo); }
-.marcador__cifra span { font-size: 1.6rem; color: var(--tinta-suave); }
-
 .marcador__rombos {
-  margin: 10px 0 6px;
-  font-size: 2.2rem;
-  line-height: 1;
+  margin: 0;
+  font-size: 1.6rem;
+  line-height: 1.1;
   letter-spacing: 0.2em;
   padding-left: 0.2em;   /* compensa el espaciado de la última letra */
   color: var(--rojo);
 }
 
+.marcador__cifra {
+  margin: 2px 0 0;
+  font-family: var(--letra-titulo);
+  font-weight: 400;
+  line-height: 1.05;
+  color: var(--tinta);
+}
+
+.marcador__cifra b { font-weight: 500; font-size: 2.6rem; color: var(--rojo); }
+.marcador__cifra span { font-size: 1.3rem; color: var(--tinta-suave); }
+
 .marcador__frase {
-  margin: 0;
+  margin: 2px 0 0;
   font-family: var(--letra-fell);
   font-style: italic;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
 }
 
 .cifras {
@@ -439,43 +443,36 @@ body {
   line-height: 1.15;
 }
 
-.cifras dd.cifras__unidad {
-  font-family: var(--letra);
-  font-style: italic;
-  font-size: 0.9rem;
-  color: var(--tinta-suave);
+/* En la pantalla final: cifra encima y nombre debajo, en una franja entre filetes dobles. */
+.cifras--final {
+  margin: 12px 0 0;
+  padding: 6px 0;
+  border-top: 3px double var(--filete);
+  border-bottom: 3px double var(--filete);
 }
 
+.cifras--final div { display: flex; flex-direction: column-reverse; }
+.cifras--final dt { font-size: 0.8rem; white-space: nowrap; }
+.cifras--final dd { font-size: 1.35rem; }
+
 .cuenta-atras {
-  margin: 0 0 26px;
+  margin: 14px 0 0;
   font-style: italic;
   color: var(--tinta-suave);
 }
 
 .cuenta-atras time {
-  display: block;
   font-style: normal;
-  font-family: var(--letra-titulo);
-  font-size: 1.6rem;
+  font-weight: 600;
   color: var(--tinta);
   font-variant-numeric: tabular-nums;
 }
 
-.repaso__titulo {
-  margin: 0 0 6px;
-  font-family: var(--letra-titulo);
-  font-weight: 400;
-  font-size: 1.1rem;
-  letter-spacing: 0.08em;
-  color: var(--tinta-suave);
-}
-
 .repaso {
   list-style: none;
-  margin: 0;
+  margin: 8px 0 0;
   padding: 0;
   text-align: left;
-  border-top: 1px solid var(--filete);
 }
 
 .repaso li { border-bottom: 1px solid var(--filete); }
@@ -484,8 +481,8 @@ body {
   display: flex;
   align-items: center;
   gap: 12px;
-  min-height: 52px;
-  padding: 8px 2px;
+  min-height: 42px;
+  padding: 7px 2px;
   cursor: pointer;
   list-style: none;
 }
@@ -493,13 +490,15 @@ body {
 .repaso summary::-webkit-details-marker { display: none; }
 
 .repaso summary::after {
-  content: "+";
+  content: "›";
   margin-left: auto;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
+  line-height: 1;
   color: var(--tinta-suave);
+  transition: transform 0.2s;
 }
 
-.repaso details[open] summary::after { content: "−"; }
+.repaso details[open] summary::after { transform: rotate(90deg); }
 
 .repaso__marca { font-size: 1.15rem; }
 .repaso__marca.is-acierto { color: var(--verde); }
@@ -518,6 +517,23 @@ body {
 
 .repaso__detalle p { margin: 0; }
 .repaso__detalle b { color: var(--tinta); font-weight: 600; }
+
+.pantalla--resultado .pila { gap: 8px; margin: 12px 0 0; }
+.pantalla--resultado .btn { min-height: 48px; padding: 8px 18px; }
+
+/* En pantallas bajas (iPhone SE, Android pequeños) las estadísticas bajan bajo los botones,
+   para que Compartir, Siguiente juego y Regresar se vean sin desplazarse. */
+@media (max-height: 660px) {
+  .pantalla--resultado { display: flex; flex-direction: column; }
+  .pantalla--resultado > .cifras--final,
+  .pantalla--resultado > .cuenta-atras { order: 1; }
+  .marcador { padding: 6px 16px 8px; }
+  .marcador__rombos { font-size: 1.4rem; }
+  .marcador__cifra b { font-size: 2.3rem; }
+  .pantalla--resultado .pila { gap: 6px; margin-top: 10px; }
+  .pantalla--resultado .btn { min-height: 46px; }
+  .repaso summary { min-height: 40px; padding: 6px 2px; }
+}
 
 /* ---------- Cómo se juega ---------- */
 

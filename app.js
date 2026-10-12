@@ -501,27 +501,17 @@
     avisarAlmanaque();
     var n = aciertos(partida);
     var total = partida.respuestas.length;
-    var racha = rachaVigente(estado, hoy);
 
+    // Pantalla final, igual en todos los juegos del Almanaque: ficha con el resultado, una
+    // línea por pieza, estadísticas y botones.
     pintar(
-      '<section class="pantalla pantalla--resultado">' +
-      '<h2 class="kicker" data-foco tabindex="-1">Tu gabinete de hoy</h2>' +
+      '<section class="pantalla pantalla--resultado" aria-label="Resultado de hoy">' +
       '<div class="marcador">' +
-      '<p class="marcador__cifra"><b>' + n + '</b><span> de ' + total + '</span></p>' +
       '<p class="marcador__rombos" role="img" aria-label="' + n + ' de ' + total + ' aciertos">' + filaRombos(partida) + '</p>' +
+      '<h2 class="marcador__cifra" data-foco tabindex="-1"><b>' + n + '</b><span> de ' + total + '</span></h2>' +
       '<p class="marcador__frase">' + FRASES[Math.round(n * (FRASES.length - 1) / total)] + '</p>' +
       '</div>' +
-      '<div class="pila">' +
-      '<button class="btn btn--grande" id="btn-compartir" type="button">Compartir</button>' +
-      '<a class="btn btn--sec" data-almanaque-volver hidden href="https://joseleking.github.io/Almanaque/">☜ Regresar al Almanaque</a>' +
-      '</div>' +
-      '<dl class="cifras">' +
-      '<div><dt>Racha</dt><dd>' + racha + '</dd><dd class="cifras__unidad">' + (racha === 1 ? 'día seguido' : 'días seguidos') + '</dd></div>' +
-      '<div><dt>Mejor racha</dt><dd>' + estado.racha.maxima + '</dd><dd class="cifras__unidad">' + (estado.racha.maxima === 1 ? 'día' : 'días') + '</dd></div>' +
-      '</dl>' +
-      '<p class="cuenta-atras">Siguiente relicario en <time id="cuenta-atras">--:--:--</time></p>' +
-      '<h3 class="repaso__titulo">Las piezas de hoy</h3>' +
-      '<ol class="repaso">' + reliquiasHoy().map(function (rel, k) {
+      '<ol class="repaso" aria-label="Toca una expresión para repasar su reliquia">' + reliquiasHoy().map(function (rel, k) {
         var ok = partida.respuestas[k] === 0;
         return '<li><details>' +
           '<summary><span class="repaso__marca ' + (ok ? 'is-acierto' : 'is-fallo') + '" aria-hidden="true">' + (ok ? '◆' : '◇') + '</span>' +
@@ -531,6 +521,12 @@
           '<p><b>' + esc(rel.opciones[0]) + '.</b> ' + esc(rel.reliquia) + '</p>' +
           '</div></details></li>';
       }).join('') + '</ol>' +
+      htmlCifras('cifras--final') +
+      '<div class="pila">' +
+      '<button class="btn btn--grande" id="btn-compartir" type="button">Compartir</button>' +
+      '<a class="btn btn--sec" data-almanaque-volver hidden href="https://joseleking.github.io/Almanaque/">☜ Regresar al Almanaque</a>' +
+      '</div>' +
+      '<p class="cuenta-atras">Siguiente relicario en <time id="cuenta-atras">--:--:--</time></p>' +
       '</section>'
     );
 
@@ -596,18 +592,23 @@
     modal.scrollTop = 0;
   }
 
-  // Estadísticas: la misma ventana. Aciertos sobre el total de piezas de los días jugados.
-  function abrirEstadisticas() {
+  // Jugados, aciertos (sobre el total de piezas de los días jugados) y rachas: en la
+  // pantalla final y en la ventana de estadísticas.
+  function htmlCifras(clase) {
     var jugados = Object.keys(estado.historial);
     var piezas = jugados.reduce(function (s, d) { return s + diaDeContenido(dias, +d).reliquias.length; }, 0);
     var acertadas = jugados.reduce(function (s, d) { return s + estado.historial[d]; }, 0);
-    modalCuerpo.innerHTML = '<h2 id="modal-titulo" tabindex="-1">Estadísticas</h2>' +
-      '<dl class="cifras cifras--cuatro">' +
+    return '<dl class="cifras cifras--cuatro ' + (clase || '') + '">' +
       '<div><dt>Jugados</dt><dd>' + jugados.length + '</dd></div>' +
       '<div><dt>Aciertos</dt><dd>' + (piezas ? Math.round(acertadas / piezas * 100) : 0) + '%</dd></div>' +
       '<div><dt>Racha</dt><dd>' + rachaVigente(estado, hoy) + '</dd></div>' +
       '<div><dt>Mejor racha</dt><dd>' + estado.racha.maxima + '</dd></div>' +
       '</dl>';
+  }
+
+  // Estadísticas: la misma ventana.
+  function abrirEstadisticas() {
+    modalCuerpo.innerHTML = '<h2 id="modal-titulo" tabindex="-1">Estadísticas</h2>' + htmlCifras();
     document.getElementById('modal-cerrar').textContent = 'Cerrar';
     if (modal.showModal) { if (!modal.open) modal.showModal(); } else modal.setAttribute('open', '');
     document.getElementById('modal-titulo').focus({ preventScroll: true });
