@@ -195,7 +195,7 @@
   // Una marca por reliquia: ▰ acertada, ▱ fallada. «Relicario nº 7 ▰▱▰ 2/3 aciertos» y el enlace.
   function textoCompartir(dia, partida) {
     var marcas = partida.respuestas.map(function (r) { return r === 0 ? '▰' : '▱'; }).join('');
-    return 'Relicario nº ' + dia + ' ' + marcas + ' ' + aciertos(partida) + '/' + partida.respuestas.length + ' aciertos\njoseleking.github.io/Relicario';
+    return 'Relicario nº ' + dia + ' ' + marcas + ' ' + aciertos(partida) + '/' + partida.respuestas.length + ' aciertos\nemiliocasanovabiscarri.github.io/Relicario';
   }
 
   // ---------------------------------------------------------------------------
@@ -524,7 +524,7 @@
       htmlCifras('cifras--final') +
       '<div class="pila">' +
       '<button class="btn btn--grande" id="btn-compartir" type="button">Compartir</button>' +
-      '<a class="btn btn--sec" data-almanaque-volver hidden href="https://joseleking.github.io/Almanaque/">☜ Regresar al Almanaque</a>' +
+      '<a class="btn btn--sec" data-almanaque-volver hidden href="https://emiliocasanovabiscarri.github.io/Almanaque/">☜ Regresar al Almanaque</a>' +
       '</div>' +
       '<p class="cuenta-atras">Siguiente relicario en <time id="cuenta-atras">--:--:--</time></p>' +
       '</section>'

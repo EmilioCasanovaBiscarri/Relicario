@@ -10,10 +10,10 @@ responder se revela la explicación.
 
 Al terminar se comparte una fila de rombos:
 
-> Relicario · 3 oct · ◆◆◇ · https://joseleking.github.io/Relicario/
+> Relicario · 3 oct · ◆◆◇ · https://emiliocasanovabiscarri.github.io/Relicario/
 
 Es una PWA estática (HTML, CSS y JavaScript, sin frameworks ni paso de
-compilación) de la familia de [Almanaque](https://joseleking.github.io/Almanaque/).
+compilación) de la familia de [Almanaque](https://emiliocasanovabiscarri.github.io/Almanaque/).
 
 ## Archivos
 
@@ -84,7 +84,7 @@ marca las dos: `'Mirar de [hito] en [hito]'`.
 1. Sube los cambios a `main` (`git push`).
 2. En GitHub: **Settings → Pages → Build and deployment → Source: Deploy from
    a branch**, rama `main`, carpeta `/ (root)`, **Save**.
-3. Al cabo de un minuto estará en <https://joseleking.github.io/Relicario/>.
+3. Al cabo de un minuto estará en <https://emiliocasanovabiscarri.github.io/Relicario/>.
 
 **Al publicar una versión nueva**, sube `CACHE_VERSION` en `sw.js` (`'v1'` →
 `'v2'`) y el `?v=` de los `<script>` y del CSS en `index.html`. Así los móviles

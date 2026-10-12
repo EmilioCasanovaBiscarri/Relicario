@@ -92,7 +92,7 @@ test('partida: responder, revelar, avanzar y terminar', () => {
   assert.deepEqual(L.posicion(p), { fase: 'final', indice: -1 });
   assert.equal(L.aciertos(p), 2);
   assert.equal(L.filaRombos(p), '◆◇◆');
-  assert.equal(L.textoCompartir(4, p), 'Relicario nº 4 ▰▱▰ 2/3 aciertos\njoseleking.github.io/Relicario');
+  assert.equal(L.textoCompartir(4, p), 'Relicario nº 4 ▰▱▰ 2/3 aciertos\nemiliocasanovabiscarri.github.io/Relicario');
   assert.ok(L.terminarPartida(estado, 1));
   assert.equal(L.terminarPartida(estado, 1), false);
   assert.equal(estado.historial[1], 2);
