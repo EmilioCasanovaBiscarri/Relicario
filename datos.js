@@ -1529,6 +1529,468 @@
           opciones: ['Una pastilla de medicina', 'Una moneda', 'Una bola de billar'],
           reliquia: 'Los boticarios recubrían algunas píldoras amargas para que fueran más fáciles de tragar. Dorar la píldora es suavizar una mala noticia.'
         }
+      ] },
+
+      // Día 70
+      { reliquias: [
+        {
+          expresion: 'Hacerse el [sueco]',
+          pregunta: '¿De dónde viene este «sueco»?',
+          opciones: ['Del latín soccus, un calzado tosco', 'De los habitantes de Suecia', 'De un actor del Siglo de Oro'],
+          reliquia: 'Viene del latín soccus, el zueco que calzaban los cómicos; el «sueco» era el tosco, el que no se entera. Hacerse el sueco es fingir que no se entiende.'
+        },
+        {
+          expresion: 'Cruzar el [Rubicón]',
+          pregunta: '¿Qué es el «Rubicón»?',
+          opciones: ['Un río de Italia', 'Una muralla romana', 'Un puerto de montaña'],
+          reliquia: 'Era el río que marcaba el límite de Italia, y ningún general podía cruzarlo con su ejército. Julio César lo hizo en el 49 a. C. Cruzar el Rubicón es tomar una decisión sin vuelta atrás.'
+        },
+        {
+          expresion: 'Hacer buenas [migas]',
+          pregunta: '¿Qué son las «migas»?',
+          opciones: ['Un plato de pan desmenuzado y frito', 'Las amistades del colegio', 'Monedas pequeñas'],
+          reliquia: 'Las migas de pastor se hacen con pan duro desmenuzado y frito, y salen bien cuando el pan liga con el agua y la grasa. Hacer buenas migas es llevarse bien.'
+        }
+      ] },
+
+      // Día 71
+      { reliquias: [
+        {
+          expresion: 'Estar a la [cuarta] pregunta',
+          pregunta: '¿Qué era la «cuarta pregunta»?',
+          opciones: ['La de los bienes y rentas, en los interrogatorios', 'La última del catecismo', 'La del examen de bachiller'],
+          reliquia: 'En los antiguos interrogatorios, la cuarta pregunta era la de los bienes y rentas del declarante. Estar a la cuarta pregunta es no tener ni un duro.'
+        },
+        {
+          expresion: 'El talón de [Aquiles]',
+          pregunta: '¿Quién era «Aquiles»?',
+          opciones: ['Un héroe griego invulnerable salvo en el talón', 'Un zapatero de Atenas', 'Un gladiador romano'],
+          reliquia: 'Su madre lo sumergió en la laguna Estigia sujetándolo por el talón, el único punto que quedó vulnerable. Allí le alcanzó la flecha de Paris.'
+        },
+        {
+          expresion: 'Cortarse la [coleta]',
+          pregunta: '¿Qué es la «coleta»?',
+          opciones: ['La trenza que llevaban los toreros', 'La cola de un vestido', 'Una tarjeta de visita'],
+          reliquia: 'Los toreros llevaban una pequeña trenza, la coleta (hoy es un añadido postizo). Cortársela es retirarse de los toros y, por extensión, de cualquier oficio.'
+        }
+      ] },
+
+      // Día 72
+      { reliquias: [
+        {
+          expresion: 'Armarse la [gorda]',
+          pregunta: '¿Qué fue «la Gorda»?',
+          opciones: ['La revolución de 1868', 'Una campana de la catedral de Toledo', 'Una gran tormenta del siglo XVIII'],
+          reliquia: 'Así se llamaba a la revolución que se esperaba durante años y que estalló en 1868, la Gloriosa, que destronó a Isabel II. Armarse la gorda es armarse un gran lío.'
+        },
+        {
+          expresion: 'Echar [margaritas] a los cerdos',
+          pregunta: '¿Qué eran las «margaritas»?',
+          opciones: ['Perlas', 'Flores silvestres', 'Monedas de oro'],
+          reliquia: 'Viene del Evangelio: «No echéis vuestras perlas a los cerdos». En latín, margarita significa perla. Es dar algo valioso a quien no sabe apreciarlo.'
+        },
+        {
+          expresion: 'A [borbotones]',
+          pregunta: '¿Qué es un «borbotón»?',
+          opciones: ['El burbujeo del agua que hierve o brota', 'Un botón grande', 'Un trago de vino'],
+          reliquia: 'Es el burbujeo del agua que hierve o brota con fuerza; la palabra imita su sonido. Salir a borbotones es salir de golpe y atropelladamente.'
+        }
+      ] },
+
+      // Día 73
+      { reliquias: [
+        {
+          expresion: 'Poner los puntos sobre las [íes]',
+          pregunta: '¿Por qué las «íes» llevan punto?',
+          opciones: ['Para no confundirlas con otros trazos', 'Por orden de Alfonso X', 'Para indicar que se pronuncian largas'],
+          reliquia: 'En la letra medieval, la i era un palito que se confundía con los trazos de la u, la m o la n, y los copistas empezaron a marcarla por encima. Poner los puntos sobre las íes es aclarar algo con todo detalle.'
+        },
+        {
+          expresion: 'Llamar a [capítulo]',
+          pregunta: '¿Qué era el «capítulo»?',
+          opciones: ['La reunión de los monjes de un monasterio', 'Una parte de un libro', 'Un juicio militar'],
+          reliquia: 'Los monjes se reunían en la sala capitular, donde se leía un capítulo de la regla y se reprendía a quien había faltado. Llamar a capítulo es pedir cuentas.'
+        },
+        {
+          expresion: 'Estar de [Rodríguez]',
+          pregunta: '¿Quién es «Rodríguez»?',
+          opciones: ['Un apellido cualquiera, el del marido que se queda solo en verano', 'Un actor famoso de los años veinte', 'Un santo de agosto'],
+          reliquia: 'Es un apellido de los más corrientes: el del marido que se quedaba trabajando en la ciudad mientras la familia veraneaba. Una película de 1965 lo hizo popular.'
+        }
+      ] },
+
+      // Día 74
+      { reliquias: [
+        {
+          expresion: 'Estar en la [inopia]',
+          pregunta: '¿Qué significa «inopia»?',
+          opciones: ['Pobreza, escasez', 'Sueño profundo', 'Un país imaginario'],
+          reliquia: 'Viene del latín inopia, «pobreza, escasez». Estar en la inopia es estar en blanco, sin enterarse de nada.'
+        },
+        {
+          expresion: 'Una victoria [pírrica]',
+          pregunta: '¿De dónde sale «pírrica»?',
+          opciones: ['De Pirro, un rey de Epiro', 'Del fuego, en griego pyr', 'De una ciudad de Sicilia'],
+          reliquia: 'Pirro venció a los romanos en Ásculo (279 a. C.) con tantas bajas que, según Plutarco, dijo: «Otra victoria así y estamos perdidos».'
+        },
+        {
+          expresion: 'Echar un [capote]',
+          pregunta: '¿Qué es el «capote»?',
+          opciones: ['La capa con que el torero distrae al toro', 'Un abrigo militar', 'Una capucha de fraile'],
+          reliquia: 'Cuando un torero está en apuros, otro le echa el capote para que el toro se vaya tras él. Echar un capote es ayudar a alguien en un aprieto.'
+        }
+      ] },
+
+      // Día 75
+      { reliquias: [
+        {
+          expresion: 'Pelar la [pava]',
+          pregunta: '¿Qué era la «pava»?',
+          opciones: ['La hembra del pavo', 'Una manta para el frío', 'Una pipa de fumar'],
+          reliquia: 'Cuenta la tradición que una criada, mandada a pelar una pava, se entretenía en la reja charlando con su novio. Pelar la pava es estar de charla amorosa.'
+        },
+        {
+          expresion: 'Traer a [colación]',
+          pregunta: '¿Qué era la «colación»?',
+          opciones: ['La plática de los monjes sobre sus lecturas', 'Un tipo de dulce', 'Un collar de cuentas'],
+          reliquia: 'Viene del latín collatio, «comparación, conferencia»: en los conventos era la plática sobre lecturas piadosas, y también la comida ligera que la seguía. Traer a colación es sacar un tema en la conversación.'
+        },
+        {
+          expresion: 'A [palo] seco',
+          pregunta: '¿Qué es el «palo» de esta expresión?',
+          opciones: ['El mástil de un barco', 'Un bastón de pastor', 'Un trago de aguardiente'],
+          reliquia: 'Navegar a palo seco era hacerlo con las velas recogidas, solo con los mástiles, durante un temporal. A palo seco es sin añadidos.'
+        }
+      ] },
+
+      // Día 76
+      { reliquias: [
+        {
+          expresion: 'Hacer [novillos]',
+          pregunta: '¿Qué son los «novillos»?',
+          opciones: ['Toros jóvenes', 'Días de fiesta en el colegio', 'Novatos de la escuela'],
+          reliquia: 'Los novillos son toros jóvenes, y se cree que los chicos faltaban a la escuela para torearlos en el campo. Hacer novillos es faltar a clase.'
+        },
+        {
+          expresion: 'Abrir la caja de [Pandora]',
+          pregunta: '¿Quién era «Pandora»?',
+          opciones: ['La primera mujer, según los griegos', 'Una diosa del mar', 'Una reina de Troya'],
+          reliquia: 'Zeus le dio una jarra (no una caja) que no debía abrir; al hacerlo, escaparon todos los males del mundo y dentro solo quedó la esperanza.'
+        },
+        {
+          expresion: 'De [refilón]',
+          pregunta: '¿Qué quiere decir «de refilón»?',
+          opciones: ['De lado, de pasada', 'Con mucha fuerza', 'A escondidas'],
+          reliquia: 'Viene de «filo»: es lo que roza de lado, como el borde de un cuchillo. Ver algo de refilón es verlo de pasada.'
+        }
+      ] },
+
+      // Día 77
+      { reliquias: [
+        {
+          expresion: 'Salir de [naja]',
+          pregunta: '¿De dónde viene «naja»?',
+          opciones: ['Del caló, de un verbo que significa «irse»', 'De la naja, una serpiente', 'De un barco muy veloz'],
+          reliquia: 'Viene del caló najar, «irse, huir». Salir de naja es marcharse deprisa. Por casualidad, Naja es también el nombre científico de las cobras.'
+        },
+        {
+          expresion: 'Ser el [benjamín]',
+          pregunta: '¿Quién era «Benjamín»?',
+          opciones: ['El hijo menor de Jacob', 'Un niño prodigio', 'Un paje de la corte'],
+          reliquia: 'Según la Biblia, Benjamín fue el último de los doce hijos de Jacob y su preferido. El benjamín es el menor de una familia o de un grupo.'
+        },
+        {
+          expresion: 'Quedar en [tablas]',
+          pregunta: '¿De dónde vienen las «tablas»?',
+          opciones: ['Del ajedrez, cuando nadie gana', 'Del teatro', 'Del parchís'],
+          reliquia: 'En ajedrez, la partida queda en tablas cuando ninguno de los dos puede ganar. Quedar en tablas es empatar.'
+        }
+      ] },
+
+      // Día 78
+      { reliquias: [
+        {
+          expresion: 'Tomar el [olivo]',
+          pregunta: '¿Qué es el «olivo» de esta expresión?',
+          opciones: ['Un árbol tras el que se refugiaban los toreros', 'La rama que se daba al vencedor', 'Un aceite para curar heridas'],
+          reliquia: 'Se dice que, cuando se toreaba en el campo, los toreros se ponían a salvo tras los olivos. Tomar el olivo es refugiarse tras la barrera y, por extensión, huir.'
+        },
+        {
+          expresion: 'Ser más [papista] que el papa',
+          pregunta: '¿Qué es un «papista»?',
+          opciones: ['Un partidario del papa', 'Un fabricante de papel', 'Un pastelero'],
+          reliquia: 'Papista es el partidario del papa. Ser más papista que el papa es defender algo con más celo que el propio interesado.'
+        },
+        {
+          expresion: 'Ser un [cero] a la izquierda',
+          pregunta: '¿Por qué un «cero» a la izquierda?',
+          opciones: ['Porque a la izquierda de una cifra no vale nada', 'Porque el cero se escribía en rojo', 'Porque era la nota más baja'],
+          reliquia: 'Un cero a la izquierda de un número no cambia su valor: 07 es 7. Ser un cero a la izquierda es no pintar nada.'
+        }
+      ] },
+
+      // Día 79
+      { reliquias: [
+        {
+          expresion: 'Dar en el [clavo]',
+          pregunta: '¿Qué era el «clavo»?',
+          opciones: ['El que sujetaba el centro de la diana', 'Un clavo de herradura', 'La especia'],
+          reliquia: 'Las dianas antiguas se sujetaban con un clavo en el centro, y acertar en él era el mejor tiro. Dar en el clavo es acertar de lleno.'
+        },
+        {
+          expresion: 'Llorar como una [Magdalena]',
+          pregunta: '¿Quién era la «Magdalena»?',
+          opciones: ['María Magdalena, que lloró en la Pasión', 'Una reina de Castilla', 'Una monja de Ávila'],
+          reliquia: 'María Magdalena llora al pie de la cruz y ante el sepulcro vacío, y los pintores la retrataron casi siempre en lágrimas. Llorar como una Magdalena es llorar sin consuelo.'
+        },
+        {
+          expresion: 'De rancio [abolengo]',
+          pregunta: '¿Qué es el «abolengo»?',
+          opciones: ['La ascendencia, los antepasados', 'Un título nobiliario de Aragón', 'Un vino añejo'],
+          reliquia: 'Viene de «abuelo»: el abolengo es el linaje. Y «rancio», aquí, quiere decir antiguo.'
+        }
+      ] },
+
+      // Día 80
+      { reliquias: [
+        {
+          expresion: 'Vivir de la [sopa boba]',
+          pregunta: '¿Qué era la «sopa boba»?',
+          opciones: ['La comida que daban los conventos a los pobres', 'Una sopa sin sal', 'Un juego de naipes'],
+          reliquia: 'Los conventos repartían a los pobres y a los estudiantes una sopa hecha con sobras. Vivir de la sopa boba es vivir a costa de otros.'
+        },
+        {
+          expresion: 'Ser un [mecenas]',
+          pregunta: '¿Quién fue «Mecenas»?',
+          opciones: ['Un consejero de Augusto que protegió a los poetas', 'Un banquero florentino', 'Un rey de Lidia'],
+          reliquia: 'Cayo Mecenas, amigo del emperador Augusto, protegió a poetas como Virgilio y Horacio. Un mecenas es quien patrocina las artes.'
+        },
+        {
+          expresion: 'Hacer [aguas]',
+          pregunta: '¿De dónde viene «hacer aguas»?',
+          opciones: ['De un barco que tiene una vía de agua', 'De las fuentes de un jardín', 'De las crecidas del río'],
+          reliquia: 'Un barco hace agua cuando le entra por alguna grieta y empieza a hundirse. Algo que hace aguas empieza a fallar.'
+        }
+      ] },
+
+      // Día 81
+      { reliquias: [
+        {
+          expresion: 'Hacer [San Lunes]',
+          pregunta: '¿Qué era «San Lunes»?',
+          opciones: ['Un santo inventado para no trabajar el lunes', 'El patrón de los zapateros', 'La fiesta de un gremio de Madrid'],
+          reliquia: 'No hay tal santo: los artesanos llamaban así al lunes en que, tras el domingo de juerga, no iban a trabajar.'
+        },
+        {
+          expresion: 'Guerra sin [cuartel]',
+          pregunta: '¿Qué era el «cuartel»?',
+          opciones: ['El perdón que se concedía al vencido', 'Un edificio militar', 'Una cuarta parte del botín'],
+          reliquia: 'Dar cuartel era perdonar la vida al enemigo que se rendía. Una guerra sin cuartel es una lucha a muerte, sin piedad.'
+        },
+        {
+          expresion: 'Hacer [chiribitas] los ojos',
+          pregunta: '¿Qué son las «chiribitas»?',
+          opciones: ['Chispas', 'Lágrimas', 'Pestañas'],
+          reliquia: 'Las chiribitas son chispas, y también las motitas que parecen verse tras un golpe. A quien le hacen chiribitas los ojos mira algo con mucha ilusión.'
+        }
+      ] },
+
+      // Día 82
+      { reliquias: [
+        {
+          expresion: 'Mandar a hacer [puñetas]',
+          pregunta: '¿Qué son las «puñetas»?',
+          opciones: ['Los encajes de los puños de las togas', 'Golpes con el puño', 'Unas tijeras pequeñas'],
+          reliquia: 'Las puñetas son las bocamangas de encaje de las togas de jueces y magistrados, una labor lenta y minuciosa. Mandar a hacer puñetas es mandar a alguien a paseo.'
+        },
+        {
+          expresion: 'Ser un [narciso]',
+          pregunta: '¿Quién era «Narciso»?',
+          opciones: ['Un joven que se enamoró de su reflejo', 'Un jardinero de Babilonia', 'Un dios del vino'],
+          reliquia: 'Según el mito griego, Narciso se enamoró de su propia imagen en el agua y murió contemplándola; en su lugar brotó la flor que lleva su nombre.'
+        },
+        {
+          expresion: 'Pasar por el [aro]',
+          pregunta: '¿Qué es el «aro»?',
+          opciones: ['El que saltan los animales amaestrados', 'Un anillo de boda', 'La argolla de los presos'],
+          reliquia: 'En el circo, los animales amaestrados saltan a través de un aro. Pasar por el aro es hacer, a disgusto, lo que otro manda.'
+        }
+      ] },
+
+      // Día 83
+      { reliquias: [
+        {
+          expresion: 'Montar un [pollo]',
+          pregunta: '¿De dónde viene este «pollo»?',
+          opciones: ['Del «poyo», el banco de piedra al que se subían los oradores', 'De un pollo que se escapó en un mercado', 'De un baile del siglo XIX'],
+          reliquia: 'Según la explicación más extendida, el poyo era el banco de piedra al que se subía quien quería arengar a la gente. Montar un pollo es armar un escándalo.'
+        },
+        {
+          expresion: 'Romper una [lanza]',
+          pregunta: '¿Dónde se rompían las «lanzas»?',
+          opciones: ['En los torneos de caballeros', 'En las procesiones', 'En las cacerías reales'],
+          reliquia: 'En los torneos, los caballeros rompían sus lanzas contra el rival en honor de una dama. Romper una lanza por alguien es salir en su defensa.'
+        },
+        {
+          expresion: 'Estar hasta la [coronilla]',
+          pregunta: '¿Qué es la «coronilla»?',
+          opciones: ['La parte más alta de la cabeza', 'Una corona pequeña', 'El borde de un vaso'],
+          reliquia: 'Es la parte más alta y posterior de la cabeza, donde los clérigos se rapaban la tonsura. Estar hasta la coronilla es estar harto hasta arriba.'
+        }
+      ] },
+
+      // Día 84
+      { reliquias: [
+        {
+          expresion: 'Despedirse a la [francesa]',
+          pregunta: '¿Por qué «a la francesa»?',
+          opciones: ['Por una costumbre de irse de las fiestas sin despedirse', 'Porque los franceses se despedían con dos besos', 'Por la retirada de Napoleón de Rusia'],
+          reliquia: 'En los salones del siglo XVIII se tenía por elegante marcharse sin despedirse del anfitrión, para no interrumpir. En francés, en cambio, se dice «a la inglesa».'
+        },
+        {
+          expresion: 'Arrojar el [guante]',
+          pregunta: '¿Qué significaba arrojar el «guante»?',
+          opciones: ['Retar a un duelo', 'Rendirse en una batalla', 'Pedir la mano de una dama'],
+          reliquia: 'El caballero medieval arrojaba su guante ante otro para desafiarlo; recogerlo era aceptar el duelo.'
+        },
+        {
+          expresion: 'Dar el [callo]',
+          pregunta: '¿Qué es el «callo»?',
+          opciones: ['La dureza que sale en las manos de tanto trabajar', 'Un plato de tripas', 'Un clavo de herradura'],
+          reliquia: 'El callo es la dureza que sale en la piel por el roce del trabajo. Dar el callo es trabajar duro.'
+        }
+      ] },
+
+      // Día 85
+      { reliquias: [
+        {
+          expresion: 'Pasar las de [Caín]',
+          pregunta: '¿Quién era «Caín»?',
+          opciones: ['El hijo de Adán que mató a su hermano', 'Un rey de Babilonia', 'Un profeta del desierto'],
+          reliquia: 'Tras matar a Abel, Caín fue condenado a vagar errante por la tierra. Pasar las de Caín es sufrir grandes penalidades.'
+        },
+        {
+          expresion: 'Defender a [capa] y espada',
+          pregunta: '¿Por qué «capa y espada»?',
+          opciones: ['Eran el atuendo de los caballeros del Siglo de Oro', 'Eran las armas de los toreros', 'Eran la insignia de los alguaciles'],
+          reliquia: 'La capa y la espada eran el atuendo del caballero, que se defendía con la espada envolviéndose el brazo con la capa. Hubo incluso comedias «de capa y espada».'
+        },
+        {
+          expresion: 'Más sordo que una [tapia]',
+          pregunta: '¿Qué es una «tapia»?',
+          opciones: ['Un muro de tierra apisonada', 'Una puerta de establo', 'Una campana sin badajo'],
+          reliquia: 'La tapia es un muro de tierra amasada y apisonada en un molde. Como cualquier pared, no oye nada.'
+        }
+      ] },
+
+      // Día 86
+      { reliquias: [
+        {
+          expresion: 'Hablar en [cristiano]',
+          pregunta: '¿Qué es «cristiano» aquí?',
+          opciones: ['La lengua romance, frente al árabe o al hebreo', 'El latín de la misa', 'La lengua de los misioneros'],
+          reliquia: 'En la Edad Media, frente a quienes hablaban árabe o hebreo, «cristiano» era la lengua romance. Hablar en cristiano es hablar claro.'
+        },
+        {
+          expresion: 'Quemar las [naves]',
+          pregunta: '¿Qué «naves» se perdieron?',
+          opciones: ['Las de Hernán Cortés en Veracruz', 'Las de la Armada Invencible', 'Las de Colón en La Española'],
+          reliquia: 'En 1519 Cortés hizo hundir (no quemar) sus naves para que sus hombres no pudieran volver a Cuba. Quemar las naves es tomar una decisión sin vuelta atrás.'
+        },
+        {
+          expresion: 'Estar en el [limbo]',
+          pregunta: '¿Qué era el «limbo»?',
+          opciones: ['Un lugar del más allá para los niños sin bautizar', 'Un río del infierno', 'Una danza del Caribe'],
+          reliquia: 'Según la teología medieval, al limbo iban las almas de los niños muertos sin bautizar: sin sufrir, pero sin ver a Dios. Estar en el limbo es estar distraído.'
+        }
+      ] },
+
+      // Día 87
+      { reliquias: [
+        {
+          expresion: 'Dormirse en los [laureles]',
+          pregunta: '¿Qué eran los «laureles»?',
+          opciones: ['Las coronas de los vencedores', 'Un jardín de un palacio', 'Una cama de hierba'],
+          reliquia: 'Griegos y romanos coronaban con laurel a los vencedores. Dormirse en los laureles es confiarse tras un éxito.'
+        },
+        {
+          expresion: 'Colgar el [sambenito]',
+          pregunta: '¿Qué era el «sambenito»?',
+          opciones: ['El capotillo de los penitentes de la Inquisición', 'Un hábito de los monjes benedictinos', 'Un dulce de convento'],
+          reliquia: 'Era el capotillo con el nombre del condenado que la Inquisición imponía a los penitentes, y que después se colgaba en la iglesia. Colgarle a alguien el sambenito es cargarle una mala fama.'
+        },
+        {
+          expresion: 'Dar la [puntilla]',
+          pregunta: '¿Qué es la «puntilla»?',
+          opciones: ['El puñal con que se remata al toro', 'Un encaje fino', 'La punta del pie'],
+          reliquia: 'La puntilla es el puñal corto con que se remata al toro. Dar la puntilla es acabar con algo que ya estaba mal.'
+        }
+      ] },
+
+      // Día 88
+      { reliquias: [
+        {
+          expresion: 'Poner una [pica] en Flandes',
+          pregunta: '¿Qué era la «pica»?',
+          opciones: ['Una lanza larga de infantería', 'Una moneda flamenca', 'Una bandera'],
+          reliquia: 'Llevar un piquero hasta Flandes costaba muchísimo dinero y esfuerzo en el siglo XVI. Poner una pica en Flandes es lograr algo muy difícil.'
+        },
+        {
+          expresion: 'Ser un [adonis]',
+          pregunta: '¿Quién era «Adonis»?',
+          opciones: ['Un joven bellísimo amado por Afrodita', 'Un rey de Esparta', 'Un escultor de Atenas'],
+          reliquia: 'En el mito griego, Adonis era tan hermoso que Afrodita se enamoró de él. Un adonis es un joven muy guapo.'
+        },
+        {
+          expresion: 'Dar [carpetazo]',
+          pregunta: '¿Qué es un «carpetazo»?',
+          opciones: ['Cerrar la carpeta de un expediente', 'Un golpe con una carpeta', 'Un recorte de papel'],
+          reliquia: 'Es la acción de cerrar la carpeta de un expediente para no seguir tramitándolo. Dar carpetazo a un asunto es darlo por terminado.'
+        }
+      ] },
+
+      // Día 89
+      { reliquias: [
+        {
+          expresion: 'De [órdago]',
+          pregunta: '¿Qué es el «órdago»?',
+          opciones: ['Un envite del mus en que se apuesta todo', 'Un río del País Vasco', 'Un baile popular'],
+          reliquia: 'Viene del vasco hor dago, «ahí está». En el mus, el órdago es el envite de todo el juego. Algo de órdago es enorme, tremendo.'
+        },
+        {
+          expresion: 'Echar [pestes]',
+          pregunta: '¿Qué eran las «pestes»?',
+          opciones: ['Epidemias, y de ahí, maldiciones', 'Malos olores de la calle', 'Plagas del campo'],
+          reliquia: 'La peste era la peor de las calamidades. Echar pestes de alguien es hablar muy mal de él, como deseándole lo peor.'
+        },
+        {
+          expresion: 'Dar [esquinazo]',
+          pregunta: '¿Qué es un «esquinazo»?',
+          opciones: ['Doblar una esquina para despistar a alguien', 'Un golpe con la esquina de una mesa', 'Un saque de esquina'],
+          reliquia: 'Es doblar una esquina para quitarse de encima a quien te sigue. Dar esquinazo es evitar a alguien. En Chile, en cambio, un esquinazo es una serenata.'
+        }
+      ] },
+
+      // Día 90
+      { reliquias: [
+        {
+          expresion: 'Hacer las [Américas]',
+          pregunta: '¿Qué eran «las Américas»?',
+          opciones: ['El continente adonde emigraban los españoles a hacer fortuna', 'Una tienda de ultramarinos', 'Una compañía de barcos'],
+          reliquia: 'Desde el siglo XIX, muchos españoles, los indianos, emigraron a América para hacer fortuna. Hacer las Américas es enriquecerse en poco tiempo.'
+        },
+        {
+          expresion: 'A [ciencia] cierta',
+          pregunta: '¿Qué significa «ciencia» aquí?',
+          opciones: ['Conocimiento', 'Química', 'Adivinación'],
+          reliquia: 'En latín, scientia es simplemente conocimiento. Saber algo a ciencia cierta es saberlo con seguridad.'
+        },
+        {
+          expresion: 'A [trompicones]',
+          pregunta: '¿Qué es un «trompicón»?',
+          opciones: ['Un tropezón', 'Un toque de trompeta', 'Un golpe con una peonza'],
+          reliquia: 'Es cada tropezón que da quien camina con torpeza. Hacer algo a trompicones es hacerlo a ratos y con dificultad.'
+        }
       ] }
     ]
   };
