@@ -90,6 +90,14 @@ marca las dos: `'Mirar de [hito] en [hito]'`.
 `'v2'`) y el `?v=` de los `<script>` y del CSS en `index.html`. Así los móviles
 que ya tienen la app instalada descargan la versión nueva.
 
+**El `id` de `manifest.webmanifest` es `"/Relicario/"` y no se debe volver a cambiar.** Chrome
+identifica la app instalada por él. El `id` no se resuelve respecto a la carpeta, sino
+respecto al origen (`https://emiliocasanovabiscarri.github.io`), así que `"./"` o `"/"`
+darían la raíz del sitio, que comparten todos los juegos. Hasta el 18 de octubre de 2026
+fue `"./"`, y en Android Chrome podía dar por instalado un juego que no lo estaba. Quien
+lo instaló con el `id` antiguo conserva su app, pero Chrome puede ofrecerle instalarla de
+nuevo como otra distinta.
+
 ## Derechos de autor
 
 © 2026 Emilio Casanova Biscarri. Todos los derechos reservados. El código, los textos y los diseños de este repositorio no pueden copiarse ni reutilizarse sin permiso.
