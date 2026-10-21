@@ -1991,6 +1991,1986 @@
           opciones: ['Un tropezón', 'Un toque de trompeta', 'Un golpe con una peonza'],
           reliquia: 'Es cada tropezón que da quien camina con torpeza. Hacer algo a trompicones es hacerlo a ratos y con dificultad.'
         }
+      ] },
+
+      // Día 91
+      { reliquias: [
+        {
+          expresion: 'No llegar la sangre al [río]',
+          pregunta: '¿Qué significa «no llegar la sangre al río»?',
+          opciones: ['Que una pelea no llega a mayores', 'Que no hubo muertos en la guerra', 'Que el río no se desborda'],
+          reliquia: 'Se dice cuando una disputa no tiene consecuencias graves.'
+        },
+        {
+          expresion: 'Echar [leña] al fuego',
+          pregunta: '¿Qué hace la «leña»?',
+          opciones: ['Avivar el fuego', 'Apagarlo', 'Hacer humo'],
+          reliquia: 'Echar leña al fuego es avivar un conflicto o una discusión.'
+        },
+        {
+          expresion: 'A la [desbandada]',
+          pregunta: '¿Qué es una «desbandada»?',
+          opciones: ['Una huida en desorden, rompiendo la formación', 'Una banda de música', 'Un desfile'],
+          reliquia: 'Viene de «banda», el grupo de soldados. Salir a la desbandada es huir en desorden.'
+        }
+      ] },
+
+      // Día 92
+      { reliquias: [
+        {
+          expresion: 'Estar hasta el [gorro]',
+          pregunta: '¿Por qué el «gorro»?',
+          opciones: ['Por estar lleno de algo hasta arriba, hasta la cabeza', 'Por el frío', 'Por un uniforme'],
+          reliquia: 'Estar hasta el gorro es estar harto.'
+        },
+        {
+          expresion: 'Entre la [espada] y la pared',
+          pregunta: '¿Por qué la «espada» y la pared?',
+          opciones: ['Por quien está acorralado, sin poder retroceder', 'Por un duelo entre caballeros', 'Por una prueba de esgrima'],
+          reliquia: 'Es la situación del que tiene delante un arma y detrás un muro. Estar entre la espada y la pared es no tener salida.'
+        },
+        {
+          expresion: 'Más terco que una [mula]',
+          pregunta: '¿Por qué la «mula»?',
+          opciones: ['Por su fama de testaruda', 'Por su fuerza', 'Por su lentitud'],
+          reliquia: 'Las mulas tienen fama de no moverse cuando no quieren. Ser más terco que una mula es ser muy cabezota.'
+        }
+      ] },
+
+      // Día 93
+      { reliquias: [
+        {
+          expresion: 'De una [tacada]',
+          pregunta: '¿Qué es una «tacada»?',
+          opciones: ['Un golpe del taco de billar', 'Un trago', 'Un mordisco'],
+          reliquia: 'En el billar, una tacada es una serie de carambolas sin fallar. Hacer algo de una tacada es hacerlo de una sola vez.'
+        },
+        {
+          expresion: 'Ser un [donjuán]',
+          pregunta: '¿Quién era don Juan?',
+          opciones: ['Un seductor de mujeres de la literatura española', 'Un rey de Castilla', 'Un poeta'],
+          reliquia: 'Don Juan Tenorio, de Tirso de Molina y de Zorrilla, es el gran conquistador de la literatura. Un donjuán es un seductor.'
+        },
+        {
+          expresion: 'Hacer la [rosca]',
+          pregunta: '¿Qué es aquí la «rosca»?',
+          opciones: ['El gesto de dar vueltas alrededor de alguien para agradarle', 'Un dulce', 'Un tornillo'],
+          reliquia: 'Hacer la rosca es adular a alguien para conseguir algo.'
+        }
+      ] },
+
+      // Día 94
+      { reliquias: [
+        {
+          expresion: 'Más pobre que una [rata]',
+          pregunta: '¿Por qué la «rata»?',
+          opciones: ['Por vivir en sitios miserables, sin nada', 'Por ser muy pequeña', 'Por comer poco'],
+          reliquia: 'Ser más pobre que una rata es ser pobrísimo.'
+        },
+        {
+          expresion: 'Más largo que la [Cuaresma]',
+          pregunta: '¿Qué es la «Cuaresma»?',
+          opciones: ['Los cuarenta días de ayuno antes de Pascua', 'Un sermón', 'Una procesión'],
+          reliquia: 'Con sus ayunos y abstinencias, la Cuaresma se hacía eterna. Ser más largo que la Cuaresma es durar muchísimo.'
+        },
+        {
+          expresion: 'Por arte de [birlibirloque]',
+          pregunta: '¿Qué es el «birlibirloque»?',
+          opciones: ['Una forma de decir magia, sin explicación', 'Un juego de cartas', 'Un truco de feria'],
+          reliquia: 'Por arte de birlibirloque es por arte de magia, sin que se sepa cómo.'
+        }
+      ] },
+
+      // Día 95
+      { reliquias: [
+        {
+          expresion: 'En [fila] india',
+          pregunta: '¿Por qué «india»?',
+          opciones: ['Por los indígenas de América, que caminaban uno detrás de otro', 'Por un juego infantil', 'Por los soldados'],
+          reliquia: 'Se cuenta que así caminaban los indígenas americanos, pisando las huellas del de delante. Es ir en fila de uno.'
+        },
+        {
+          expresion: 'A rienda [suelta]',
+          pregunta: '¿Qué es ir «a rienda suelta»?',
+          opciones: ['Sin freno, con toda libertad, como el caballo sin sujetar', 'Despacio', 'Con miedo'],
+          reliquia: 'Es la imagen del caballo al que no se sujeta. Hacer algo a rienda suelta es hacerlo sin control.'
+        },
+        {
+          expresion: 'Hecho un [Cristo]',
+          pregunta: '¿Por qué «un Cristo»?',
+          opciones: ['Por las imágenes del crucificado, llenas de heridas', 'Por un traje de penitente', 'Por la corona de espinas en la cabeza'],
+          reliquia: 'Las imágenes de la Pasión muestran a Cristo herido y maltrecho. Estar hecho un Cristo es estar lleno de heridas o muy desastrado.'
+        }
+      ] },
+
+      // Día 96
+      { reliquias: [
+        {
+          expresion: 'Una vida [espartana]',
+          pregunta: '¿Cómo vivían los espartanos?',
+          opciones: ['Con una disciplina austera y dura', 'Con muchos lujos', 'Dedicados a la poesía'],
+          reliquia: 'En Esparta se educaba a los niños para la guerra, con frío, hambre y disciplina. Una vida espartana es una vida austera.'
+        },
+        {
+          expresion: 'De tú a [tú]',
+          pregunta: '¿Qué es hablar «de tú a tú»?',
+          opciones: ['De igual a igual', 'Con confianza', 'Muy cerca'],
+          reliquia: 'Es tratarse sin jerarquías, como iguales.'
+        },
+        {
+          expresion: 'Poner como [chupa] de dómine',
+          pregunta: '¿Qué era la «chupa»?',
+          opciones: ['Una chaqueta', 'Un caramelo', 'Una pipa de fumar'],
+          reliquia: 'La chupa era una chaqueta de faldones, y la de los dómines, los maestros de latín, solía estar sucia y ajada. Poner a alguien como chupa de dómine es criticarlo sin piedad.'
+        }
+      ] },
+
+      // Día 97
+      { reliquias: [
+        {
+          expresion: 'Tomar el [pelo]',
+          pregunta: '¿De qué viene «tomar el pelo»?',
+          opciones: ['De tirar del pelo o de la barba en son de burla', 'De una apuesta de barberos', 'De un juego de niños'],
+          reliquia: 'Tirar de la barba era una gran ofensa en la Edad Media. Tomar el pelo es burlarse de alguien.'
+        },
+        {
+          expresion: 'Dar la [campanada]',
+          pregunta: '¿Qué es una «campanada»?',
+          opciones: ['El toque de una campana, que todo el mundo oye', 'Un golpe en la cabeza', 'Una boda'],
+          reliquia: 'La campana se oye en todo el pueblo. Dar la campanada es hacer algo que sorprende o escandaliza a todos.'
+        },
+        {
+          expresion: 'Ser la [pera]',
+          pregunta: '¿Por qué la «pera»?',
+          opciones: ['Es una forma de decir que algo es el colmo, para bien o para mal', 'Por ser la fruta más rica', 'Por la forma de la cara'],
+          reliquia: 'Ser la pera es ser extraordinario o el colmo.'
+        }
+      ] },
+
+      // Día 98
+      { reliquias: [
+        {
+          expresion: 'A la [tremenda]',
+          pregunta: '¿Qué es tomarse algo «a la tremenda»?',
+          opciones: ['Darle demasiada importancia', 'Ir muy rápido', 'Gritar mucho'],
+          reliquia: 'Tomarse algo a la tremenda es exagerarlo y dramatizar.'
+        },
+        {
+          expresion: 'Ni corto ni [perezoso]',
+          pregunta: '¿Qué significa «ni corto ni perezoso»?',
+          opciones: ['Sin timidez ni pereza, con decisión', 'Muy alto', 'Muy deprisa'],
+          reliquia: 'Es lanzarse a hacer algo sin dudar.'
+        },
+        {
+          expresion: 'Echar una [cana] al aire',
+          pregunta: '¿Por qué una «cana»?',
+          opciones: ['Por ser cosa de personas mayores que se permiten una diversión', 'Porque los viejos se tiraban del pelo', 'Porque las canas traen suerte'],
+          reliquia: 'La cana es el pelo blanco de la edad. Echar una cana al aire es, para alguien serio o mayor, permitirse una juerga o una aventura.'
+        }
+      ] },
+
+      // Día 99
+      { reliquias: [
+        {
+          expresion: 'Ser un [camelo]',
+          pregunta: '¿Qué es un «camelo»?',
+          opciones: ['Una burla, un engaño', 'Un camello pequeño', 'Un caramelo'],
+          reliquia: 'Viene del caló «camelar», \'querer, enamorar\'. Un camelo es un engaño o una noticia falsa.'
+        },
+        {
+          expresion: 'Echar las campanas al [vuelo]',
+          pregunta: '¿Qué es echar las campanas al «vuelo»?',
+          opciones: ['Tocarlas dándoles la vuelta entera, en señal de fiesta', 'Soltarlas desde la torre', 'Tocarlas en un entierro'],
+          reliquia: 'Las campanas se voltean en las grandes celebraciones. Echarlas al vuelo es dar por hecho un éxito, a veces antes de tiempo.'
+        },
+        {
+          expresion: 'No importar un [comino]',
+          pregunta: '¿Qué es un «comino»?',
+          opciones: ['Una semilla diminuta, de muy poco valor', 'Un camino', 'Una moneda'],
+          reliquia: 'La semilla del comino es pequeñísima. No importar un comino es no importar nada.'
+        }
+      ] },
+
+      // Día 100
+      { reliquias: [
+        {
+          expresion: 'Ir viento en [popa]',
+          pregunta: '¿Qué es la «popa»?',
+          opciones: ['La parte de atrás del barco', 'La vela mayor', 'El timón'],
+          reliquia: 'Cuando el viento sopla por detrás, por la popa, el barco navega a toda velocidad. Ir viento en popa es ir muy bien.'
+        },
+        {
+          expresion: 'Estar entre [Pinto] y Valdemoro',
+          pregunta: '¿Qué tienen Pinto y Valdemoro?',
+          opciones: ['Son dos pueblos vecinos de Madrid separados por un arroyo', 'Son dos ríos', 'Eran dos toreros'],
+          reliquia: 'Se cuenta de un borracho que saltaba el arroyo que separa los dos pueblos diciendo «ahora estoy en Pinto, ahora en Valdemoro». Estar entre Pinto y Valdemoro es estar indeciso o algo bebido.'
+        },
+        {
+          expresion: 'A [ras] de',
+          pregunta: '¿Qué significa «ras»?',
+          opciones: ['Al mismo nivel, casi tocando', 'Rápido', 'Debajo'],
+          reliquia: 'A ras de suelo es casi tocándolo.'
+        }
+      ] },
+
+      // Día 101
+      { reliquias: [
+        {
+          expresion: 'En un [pispás]',
+          pregunta: '¿Qué es un «pispás»?',
+          opciones: ['Un instante', 'Un susurro', 'Un pellizco'],
+          reliquia: 'Es una onomatopeya de algo muy rápido. En un pispás es en un momento.'
+        },
+        {
+          expresion: 'No ser [manco]',
+          pregunta: '¿Qué significa «no ser manco»?',
+          opciones: ['Ser hábil, sobre todo con las manos', 'Tener dos brazos', 'Ser buen boxeador'],
+          reliquia: 'No ser manco es ser diestro en algo.'
+        },
+        {
+          expresion: 'Hacer la [pascua]',
+          pregunta: '¿Por qué la «pascua»?',
+          opciones: ['Por ironía: lo que debería ser una fiesta acaba siendo un fastidio', 'Porque en Pascua se trabajaba mucho', 'Porque la Pascua cambiaba de fecha'],
+          reliquia: 'Hacer la pascua a alguien es fastidiarle o causarle un perjuicio.'
+        }
+      ] },
+
+      // Día 102
+      { reliquias: [
+        {
+          expresion: 'Más malo que la [quina]',
+          pregunta: '¿Qué es la «quina»?',
+          opciones: ['La corteza de un árbol, muy amarga, que se usaba como medicina', 'Una planta venenosa', 'Un vino'],
+          reliquia: 'Con la quina se trataban las fiebres, y su sabor era amarguísimo. Ser más malo que la quina es ser malísimo.'
+        },
+        {
+          expresion: 'Hacer el [ganso]',
+          pregunta: '¿Por qué el «ganso»?',
+          opciones: ['Por los andares torpes y ruidosos de esta ave', 'Por un juego de mesa', 'Por un payaso francés'],
+          reliquia: 'El ganso se tenía por animal torpe y bobo. Hacer el ganso es hacer tonterías para divertir.'
+        },
+        {
+          expresion: 'De [oídas]',
+          pregunta: '¿Qué es saber algo «de oídas»?',
+          opciones: ['Por haberlo oído a otros', 'Con buen oído', 'Escuchando música'],
+          reliquia: 'Conocer algo de oídas es no haberlo visto uno mismo.'
+        }
+      ] },
+
+      // Día 103
+      { reliquias: [
+        {
+          expresion: 'Más listo que el [hambre]',
+          pregunta: '¿Por qué el «hambre»?',
+          opciones: ['Porque el hambre agudiza el ingenio', 'Porque el hambre corre mucho', 'Porque es muy antigua'],
+          reliquia: 'Es la misma idea que «la necesidad aguza el ingenio». Más listo que el hambre es muy espabilado.'
+        },
+        {
+          expresion: 'Ni [mu]',
+          pregunta: '¿Qué es el «mu»?',
+          opciones: ['El mugido de la vaca, el sonido mínimo', 'Una letra griega', 'Un insulto'],
+          reliquia: 'No decir ni mu es no decir absolutamente nada.'
+        },
+        {
+          expresion: 'Del [tirón]',
+          pregunta: '¿Qué es hacer algo «del tirón»?',
+          opciones: ['De una sola vez, sin parar', 'Tirando de algo', 'Con violencia'],
+          reliquia: 'Leer un libro del tirón es leerlo sin interrupción.'
+        }
+      ] },
+
+      // Día 104
+      { reliquias: [
+        {
+          expresion: 'Un trabajo de [Sísifo]',
+          pregunta: '¿Cuál era el castigo de Sísifo?',
+          opciones: ['Subir una roca a una montaña que siempre volvía a caer', 'Llenar un tonel agujereado', 'Sostener el cielo'],
+          reliquia: 'Los dioses lo condenaron a empujar eternamente una piedra cuesta arriba. Un trabajo de Sísifo es una tarea inútil y sin fin.'
+        },
+        {
+          expresion: 'Ser [pan] comido',
+          pregunta: '¿Por qué «pan» comido?',
+          opciones: ['Porque el pan es lo más fácil de comer', 'Porque el pan se come el primero', 'Porque el pan es barato'],
+          reliquia: 'Ser pan comido es ser algo muy fácil.'
+        },
+        {
+          expresion: 'Hacer [pucheros]',
+          pregunta: '¿Qué son aquí los «pucheros»?',
+          opciones: ['Los gestos de la boca antes de llorar', 'Las ollas de barro', 'Los cocidos'],
+          reliquia: 'El gesto de la boca del niño a punto de llorar recuerda a la boca de una olla. Hacer pucheros es poner cara de llanto.'
+        }
+      ] },
+
+      // Día 105
+      { reliquias: [
+        {
+          expresion: 'No tener dónde caerse [muerto]',
+          pregunta: '¿Qué significa «no tener dónde caerse muerto»?',
+          opciones: ['Ser muy pobre', 'Estar muy cansado', 'No tener casa en el pueblo'],
+          reliquia: 'Quien no tiene dónde caerse muerto no tiene ni un trozo de tierra propia.'
+        },
+        {
+          expresion: 'Tomar el [rábano] por las hojas',
+          pregunta: '¿Por qué se habla del «rábano»?',
+          opciones: ['Porque lo que se come es la raíz, no las hojas', 'Porque es la hortaliza más barata', 'Porque pica mucho'],
+          reliquia: 'Del rábano se aprovecha la raíz. Tomarlo por las hojas es agarrarlo por la parte que no importa: interpretar algo al revés de como se dijo.'
+        },
+        {
+          expresion: 'Poner en [jaque]',
+          pregunta: '¿De qué juego viene?',
+          opciones: ['Del ajedrez, cuando se amenaza al rey', 'De las damas', 'Del parchís'],
+          reliquia: 'Viene del persa shah, \'rey\'. Poner en jaque es poner en un apuro.'
+        }
+      ] },
+
+      // Día 106
+      { reliquias: [
+        {
+          expresion: 'Más corto que las mangas de un [chaleco]',
+          pregunta: '¿Por qué el «chaleco»?',
+          opciones: ['Porque el chaleco no tiene mangas', 'Porque es muy corto', 'Porque es estrecho'],
+          reliquia: 'Ser más corto que las mangas de un chaleco es ser muy tímido o muy torpe.'
+        },
+        {
+          expresion: 'Hacer [puente]',
+          pregunta: '¿Qué es hacer «puente»?',
+          opciones: ['Unir dos festivos tomando libre el día de en medio', 'Construir un puente', 'Saltar un río'],
+          reliquia: 'Como un puente une dos orillas, el día libre une dos festivos.'
+        },
+        {
+          expresion: 'Bajarse del [burro]',
+          pregunta: '¿Por qué el «burro»?',
+          opciones: ['Por quien se apea de su terquedad, como de su montura', 'Por un juego de feria', 'Por un castigo escolar'],
+          reliquia: 'Bajarse del burro es dar la razón al otro y abandonar la cabezonería.'
+        }
+      ] },
+
+      // Día 107
+      { reliquias: [
+        {
+          expresion: 'El canto del [cisne]',
+          pregunta: '¿Qué se decía del «cisne»?',
+          opciones: ['Que canta de forma bellísima justo antes de morir', 'Que no canta nunca', 'Que canta al amanecer'],
+          reliquia: 'Era una creencia antigua, sin base real. El canto del cisne es la última obra o actuación de alguien.'
+        },
+        {
+          expresion: 'Ir a [pachas]',
+          pregunta: '¿Qué es ir «a pachas»?',
+          opciones: ['Pagar a medias', 'Ir despacio', 'Ir en burro'],
+          reliquia: 'Ir a pachas es pagar a partes iguales. El origen de la palabra es dudoso.'
+        },
+        {
+          expresion: 'Ni harto de [vino]',
+          pregunta: '¿Qué significa «ni harto de vino»?',
+          opciones: ['Ni aunque estuviera borracho', 'Ni aunque pagaran', 'Ni aunque lloviera'],
+          reliquia: 'Es decir que uno no haría algo ni en el peor de los estados.'
+        }
+      ] },
+
+      // Día 108
+      { reliquias: [
+        {
+          expresion: 'Hacer el [vacío]',
+          pregunta: '¿Qué es el «vacío»?',
+          opciones: ['El espacio sin nadie alrededor', 'Un agujero', 'El hambre'],
+          reliquia: 'Hacerle el vacío a alguien es aislarlo y no hacerle caso.'
+        },
+        {
+          expresion: 'Trabajo de [chinos]',
+          pregunta: '¿Por qué de «chinos»?',
+          opciones: ['Por la fama de trabajos minuciosos y pacientes de los artesanos chinos', 'Por los obreros chinos del ferrocarril', 'Por los dibujos en tinta china'],
+          reliquia: 'Se refiere a un trabajo minucioso y que exige mucha paciencia, como los marfiles tallados que llegaban de China.'
+        },
+        {
+          expresion: 'Ser [Perico] de los palotes',
+          pregunta: '¿Quién era «Perico el de los palotes»?',
+          opciones: ['Un personaje inventado para hablar de cualquiera', 'Un tamborilero famoso', 'Un rey de Navarra'],
+          reliquia: 'Es un nombre de fantasía, como Fulano o Mengano. Se usa para hablar de una persona cualquiera, sin importancia.'
+        }
+      ] },
+
+      // Día 109
+      { reliquias: [
+        {
+          expresion: 'Dar [carta] blanca',
+          pregunta: '¿Qué era la «carta blanca»?',
+          opciones: ['Un papel firmado en blanco para que otro lo rellene', 'Una baraja nueva', 'Un salvoconducto'],
+          reliquia: 'Era un documento firmado sin texto, para que el portador escribiera lo que quisiera. Dar carta blanca es dar libertad total.'
+        },
+        {
+          expresion: 'Liarse la [manta] a la cabeza',
+          pregunta: '¿Por qué la «manta»?',
+          opciones: ['Por el que se tapaba la cabeza para lanzarse sin ver el peligro', 'Por un disfraz de carnaval', 'Por el frío del invierno'],
+          reliquia: 'Es la imagen del que se lanza a algo arriesgado sin pensarlo, cubriéndose para no ver. Liarse la manta a la cabeza es decidirse a todo.'
+        },
+        {
+          expresion: 'A [saco]',
+          pregunta: '¿Qué es entrar «a saco»?',
+          opciones: ['Entrar saqueando, sin miramientos', 'Entrar con un saco', 'Entrar de noche'],
+          reliquia: 'Saquear una ciudad era entrar «a saco». Hoy, ir a saco es hacer algo sin contemplaciones.'
+        }
+      ] },
+
+      // Día 110
+      { reliquias: [
+        {
+          expresion: 'Poner en tela de [juicio]',
+          pregunta: '¿Qué es la «tela de juicio»?',
+          opciones: ['El proceso o la discusión de un tribunal', 'Una tela de toga', 'Un mantel'],
+          reliquia: '«Tela» se decía también del asunto que se discutía. Poner algo en tela de juicio es ponerlo en duda.'
+        },
+        {
+          expresion: 'Arrimar el [hombro]',
+          pregunta: '¿Por qué el «hombro»?',
+          opciones: ['Por el gesto de empujar una carga con él', 'Por apoyarse en alguien', 'Por llevar sacos a cuestas'],
+          reliquia: 'Es lo que se hace para mover algo pesado entre varios. Arrimar el hombro es colaborar en un trabajo.'
+        },
+        {
+          expresion: 'Hacer [mangas] y [capirotes]',
+          pregunta: '¿Qué era un «capirote»?',
+          opciones: ['Una capucha alta y puntiaguda', 'Un cuello de encaje', 'Una manga muy larga'],
+          reliquia: 'El capirote era un gorro alto o una capucha, como la de los penitentes. Hacer mangas y capirotes es hacer lo que a uno le da la gana, sin orden ni concierto.'
+        }
+      ] },
+
+      // Día 111
+      { reliquias: [
+        {
+          expresion: 'Ser un [garbanzo] negro',
+          pregunta: '¿Qué es un «garbanzo negro»?',
+          opciones: ['El que es distinto y malo entre los demás', 'El garbanzo tostado', 'El más grande del cocido'],
+          reliquia: 'Como el garbanzo que sale negro en el cocido, es quien desentona en un grupo por su mala conducta.'
+        },
+        {
+          expresion: 'De [postín]',
+          pregunta: '¿Qué es algo «de postín»?',
+          opciones: ['De lujo, distinguido', 'Postizo', 'Antiguo'],
+          reliquia: 'Es algo elegante o de categoría.'
+        },
+        {
+          expresion: 'Hacer la [cama] a alguien',
+          pregunta: '¿Por qué «la cama»?',
+          opciones: ['Por preparar en secreto el sitio donde alguien va a caer', 'Por el servicio de las casas', 'Por un juego de niños'],
+          reliquia: 'Es preparar en secreto la caída de alguien, como quien le prepara la cama para que se tumbe en ella.'
+        }
+      ] },
+
+      // Día 112
+      { reliquias: [
+        {
+          expresion: 'Hacer [época]',
+          pregunta: '¿Qué significa aquí «época»?',
+          opciones: ['Un periodo de la historia marcado por algo importante', 'Una estación del año', 'Una edad de la vida'],
+          reliquia: 'Hacer época es dejar huella, ser recordado durante mucho tiempo.'
+        },
+        {
+          expresion: 'Hacerse el [longuis]',
+          pregunta: '¿Qué hace quien «se hace el longuis»?',
+          opciones: ['Se hace el despistado', 'Alarga la conversación', 'Presume de alto'],
+          reliquia: 'Hacerse el longuis es hacerse el distraído para no darse por enterado. La palabra viene de la jerga y su origen es dudoso.'
+        },
+        {
+          expresion: 'Sin [rechistar]',
+          pregunta: '¿Qué es «rechistar»?',
+          opciones: ['Protestar o contestar', 'Silbar', 'Respirar'],
+          reliquia: 'Viene de «chistar», hacer un ruido para hablar. Obedecer sin rechistar es hacerlo sin protestar.'
+        }
+      ] },
+
+      // Día 113
+      { reliquias: [
+        {
+          expresion: 'Echar [sapos] y culebras',
+          pregunta: '¿Por qué «sapos» y culebras?',
+          opciones: ['Por las palabras feas que salen de la boca, como bichos repugnantes', 'Por un hechizo de brujas', 'Por un plato antiguo'],
+          reliquia: 'Las palabras malsonantes se comparan con bichos que salen de la boca. Echar sapos y culebras es soltar insultos y maldiciones.'
+        },
+        {
+          expresion: 'Ser un [pez] gordo',
+          pregunta: '¿Qué es un «pez gordo»?',
+          opciones: ['Una persona importante', 'Un glotón', 'Un pescador'],
+          reliquia: 'Como el pez grande que se lleva toda la atención del pescador. Un pez gordo es alguien influyente.'
+        },
+        {
+          expresion: 'Como [alma] que lleva el diablo',
+          pregunta: '¿Por qué el «alma»?',
+          opciones: ['Por la rapidez con que se imagina al diablo llevándose un alma', 'Por un fantasma de leyenda', 'Por un difunto que corría'],
+          reliquia: 'Se dice de quien sale corriendo a toda prisa.'
+        }
+      ] },
+
+      // Día 114
+      { reliquias: [
+        {
+          expresion: 'No importar un [bledo]',
+          pregunta: '¿Qué es un «bledo»?',
+          opciones: ['Una planta silvestre sin apenas valor', 'Un pájaro', 'Una moneda'],
+          reliquia: 'El bledo es una hierba de poco provecho. No importar un bledo es no importar nada.'
+        },
+        {
+          expresion: 'Más fresco que una [lechuga]',
+          pregunta: '¿Por qué la «lechuga»?',
+          opciones: ['Porque recién cogida está tersa y fresca', 'Porque es verde', 'Porque se come fría'],
+          reliquia: 'Se dice de quien está descansado, o de quien tiene mucho descaro.'
+        },
+        {
+          expresion: 'Irse al otro [barrio]',
+          pregunta: '¿Qué es el «otro barrio»?',
+          opciones: ['El cementerio, el más allá', 'Un barrio de las afueras', 'La cárcel'],
+          reliquia: 'Irse al otro barrio es morirse.'
+        }
+      ] },
+
+      // Día 115
+      { reliquias: [
+        {
+          expresion: 'Salvarse por los [pelos]',
+          pregunta: '¿Por qué por los «pelos»?',
+          opciones: ['Por el náufrago al que agarran del pelo para sacarlo del agua', 'Por un corte de pelo a tiempo', 'Por la barba de un juez'],
+          reliquia: 'Se cuenta del que se ahogaba y fue salvado agarrándolo por el cabello. Salvarse por los pelos es librarse por muy poco.'
+        },
+        {
+          expresion: 'Ser de [armas] tomar',
+          pregunta: '¿Qué quiere decir «de armas tomar»?',
+          opciones: ['Que tiene carácter fuerte, como quien está listo para empuñar las armas', 'Que es soldado', 'Que colecciona espadas'],
+          reliquia: 'Al principio se decía de quien tenía edad para empuñar las armas. Hoy, de quien tiene mucho carácter.'
+        },
+        {
+          expresion: 'No comerse un [rosco]',
+          pregunta: '¿Qué es aquí un «rosco»?',
+          opciones: ['Un dulce, y por extensión un éxito amoroso', 'Un cero', 'Un bollo de pan'],
+          reliquia: 'No comerse un rosco es no conseguir pareja o no lograr lo que se quiere.'
+        }
+      ] },
+
+      // Día 116
+      { reliquias: [
+        {
+          expresion: 'Criar [malvas]',
+          pregunta: '¿Por qué las «malvas»?',
+          opciones: ['Porque crecen en los cementerios', 'Porque eran la flor de los entierros', 'Porque son moradas, color de luto'],
+          reliquia: 'Las malvas son plantas silvestres que brotan con facilidad sobre la tierra removida. Criar malvas es estar muerto y enterrado.'
+        },
+        {
+          expresion: 'De [vicio]',
+          pregunta: '¿Qué significa aquí «vicio»?',
+          opciones: ['Muy bien, estupendamente', 'Por mala costumbre', 'Sin motivo'],
+          reliquia: 'Pasarlo de vicio es pasarlo muy bien. Quejarse de vicio, en cambio, es quejarse sin motivo.'
+        },
+        {
+          expresion: 'Ser un [lazarillo]',
+          pregunta: '¿De dónde sale «lazarillo»?',
+          opciones: ['Del protagonista de la novela que guiaba a un ciego', 'De un santo protector de los ciegos', 'De un perro famoso'],
+          reliquia: 'El Lazarillo de Tormes, de 1554, cuenta las andanzas de un niño que sirve de guía a un ciego. Hoy un lazarillo es quien guía a otro.'
+        }
+      ] },
+
+      // Día 117
+      { reliquias: [
+        {
+          expresion: 'De [carrerilla]',
+          pregunta: '¿Qué es decir algo «de carrerilla»?',
+          opciones: ['De memoria y de corrido, sin pararse', 'Corriendo', 'Con prisas'],
+          reliquia: 'Es repetir algo sin pensar, como quien toma impulso para correr.'
+        },
+        {
+          expresion: 'No hay [moros] en la costa',
+          pregunta: '¿Por qué se miraba si había «moros» en la costa?',
+          opciones: ['Por el miedo a los piratas berberiscos', 'Porque eran comerciantes', 'Porque venían a pescar'],
+          reliquia: 'Durante siglos, los piratas del norte de África asaltaban los pueblos del litoral, y desde las torres vigías se avisaba de su llegada. Hoy se dice cuando no hay nadie que pueda descubrirnos.'
+        },
+        {
+          expresion: 'Subirse a la [parra]',
+          pregunta: '¿Qué es la «parra»?',
+          opciones: ['La vid trepadora, que sube muy alto', 'Una escalera', 'Un balcón'],
+          reliquia: 'Subirse a la parra es enfadarse mucho o darse importancia.'
+        }
+      ] },
+
+      // Día 118
+      { reliquias: [
+        {
+          expresion: 'Ser una [bicoca]',
+          pregunta: '¿Qué fue la Bicoca?',
+          opciones: ['Un lugar de Italia donde se libró una batalla ganada con poco esfuerzo', 'Un dulce de almendra', 'Una moneda de oro'],
+          reliquia: 'En la batalla de la Bicocca, en 1522, los españoles vencieron a los franceses con muy pocas bajas. Una bicoca es algo muy ventajoso que cuesta poco.'
+        },
+        {
+          expresion: 'A [rajatabla]',
+          pregunta: '¿Qué es «a rajatabla»?',
+          opciones: ['Con todo rigor, sin excepciones', 'Rompiendo una mesa', 'Sin dinero'],
+          reliquia: 'Es hacer algo con toda exactitud y severidad. Se cree que viene de «raja tabla», romper la tabla.'
+        },
+        {
+          expresion: 'Ser un [sibarita]',
+          pregunta: '¿Qué era Síbaris?',
+          opciones: ['Una ciudad griega de Italia famosa por su lujo y sus placeres', 'Un vino de Grecia', 'Un filósofo'],
+          reliquia: 'Los habitantes de Síbaris tenían fama de refinados y amantes del buen vivir. Un sibarita es quien busca el placer y el lujo.'
+        }
+      ] },
+
+      // Día 119
+      { reliquias: [
+        {
+          expresion: 'Estar en las [últimas]',
+          pregunta: '¿Qué significa «estar en las últimas»?',
+          opciones: ['A punto de morir o de acabarse', 'En la cola', 'Al final de la clase'],
+          reliquia: 'Se dice de quien está muy enfermo o de algo que se agota.'
+        },
+        {
+          expresion: 'A [gatas]',
+          pregunta: '¿Qué es andar «a gatas»?',
+          opciones: ['Apoyando manos y rodillas, como un gato', 'De puntillas', 'A la pata coja'],
+          reliquia: 'Andar a gatas es avanzar con manos y rodillas, como los bebés.'
+        },
+        {
+          expresion: 'Ir hecho un brazo de [mar]',
+          pregunta: '¿Qué es un «brazo de mar»?',
+          opciones: ['Una entrada del mar en la tierra, ancha y vistosa', 'Un marinero fuerte', 'Una ola grande'],
+          reliquia: 'Un brazo de mar es una lengua de agua que se mete tierra adentro. Ir hecho un brazo de mar es ir muy arreglado y elegante.'
+        }
+      ] },
+
+      // Día 120
+      { reliquias: [
+        {
+          expresion: 'Hacer [gala] de algo',
+          pregunta: '¿Qué era la «gala»?',
+          opciones: ['La ropa de fiesta, lo que se luce', 'Una cena', 'Una medalla'],
+          reliquia: 'Hacer gala de algo es presumir de ello, como quien luce su mejor traje.'
+        },
+        {
+          expresion: 'De [gorra]',
+          pregunta: '¿Qué es comer «de gorra»?',
+          opciones: ['Gratis, a costa de otro', 'Con sombrero', 'De pie'],
+          reliquia: 'Se cree que viene de quien se quitaba la gorra para saludar y colarse en un convite. Ir de gorra es aprovecharse sin pagar.'
+        },
+        {
+          expresion: 'Poner toda la carne en el [asador]',
+          pregunta: '¿Qué es el «asador»?',
+          opciones: ['El fuego o el espetón donde se asa la carne', 'Una tienda', 'Un cocinero'],
+          reliquia: 'Echarlo todo al fuego de una vez es arriesgar todo lo que se tiene. Poner toda la carne en el asador es emplear todos los recursos de golpe.'
+        }
+      ] },
+
+      // Día 121
+      { reliquias: [
+        {
+          expresion: 'La espada de [Damocles]',
+          pregunta: '¿Quién era Damocles?',
+          opciones: ['Un cortesano que se sentó bajo una espada colgada de un pelo de caballo', 'Un gladiador romano', 'Un rey espartano'],
+          reliquia: 'El tirano Dionisio le dejó ocupar su trono con una espada sobre la cabeza, para que viera los peligros del poder. Es una amenaza constante.'
+        },
+        {
+          expresion: 'En un abrir y cerrar de [ojos]',
+          pregunta: '¿Qué dura abrir y cerrar los «ojos»?',
+          opciones: ['Un instante', 'Una hora', 'Un día'],
+          reliquia: 'Es el tiempo de un parpadeo. Hacer algo en un abrir y cerrar de ojos es hacerlo en un momento.'
+        },
+        {
+          expresion: 'Dar [gato] por liebre',
+          pregunta: '¿Por qué el «gato»?',
+          opciones: ['Porque en las ventas se servía carne de gato como si fuera de liebre', 'Porque el gato caza liebres', 'Porque se parecen al correr'],
+          reliquia: 'Era el engaño típico de los mesones: guisar gato y cobrarlo como liebre. Dar gato por liebre es engañar dando algo peor de lo prometido.'
+        }
+      ] },
+
+      // Día 122
+      { reliquias: [
+        {
+          expresion: 'Ser la [monda]',
+          pregunta: '¿Qué es la «monda»?',
+          opciones: ['Algo extraordinario o muy gracioso', 'La piel de la fruta', 'Una fiesta de los pueblos'],
+          reliquia: '«Monda» es la cáscara que se quita al mondar la fruta, pero ser la monda es ser extraordinario, para bien o para mal.'
+        },
+        {
+          expresion: 'De mala [muerte]',
+          pregunta: '¿Qué es un lugar «de mala muerte»?',
+          opciones: ['Pobre y miserable', 'Peligroso', 'Abandonado'],
+          reliquia: 'Un sitio de mala muerte es de poca categoría.'
+        },
+        {
+          expresion: 'Estar en la [higuera]',
+          pregunta: '¿Por qué la «higuera»?',
+          opciones: ['Porque quien se sube a coger higos se queda allí, distraído', 'Porque da sombra para la siesta', 'Porque es un árbol de mala suerte'],
+          reliquia: 'Estar en la higuera es estar distraído, en las nubes, como quien se encarama al árbol y se olvida del mundo.'
+        }
+      ] },
+
+      // Día 123
+      { reliquias: [
+        {
+          expresion: 'Estar que [trina]',
+          pregunta: '¿Qué es «trinar»?',
+          opciones: ['Cantar como los pájaros, y aquí, estar furioso', 'Temblar', 'Llorar'],
+          reliquia: 'Estar que trina es estar muy enfadado.'
+        },
+        {
+          expresion: 'Por un [tubo]',
+          pregunta: '¿Qué significa «por un tubo»?',
+          opciones: ['En gran cantidad', 'Con dificultad', 'Por casualidad'],
+          reliquia: 'Como lo que sale a chorro por un tubo. Tener algo por un tubo es tener muchísimo.'
+        },
+        {
+          expresion: 'Írsele a uno el [santo] al cielo',
+          pregunta: '¿Por qué el «santo»?',
+          opciones: ['Por el predicador que olvidaba qué santo celebraba ese día', 'Por una imagen que se caía de su pedestal', 'Por un santo que subió a los cielos'],
+          reliquia: 'Se cuenta del predicador que, en mitad del sermón, olvidaba de qué santo hablaba. Irse el santo al cielo es olvidar de repente lo que se iba a decir o hacer.'
+        }
+      ] },
+
+      // Día 124
+      { reliquias: [
+        {
+          expresion: 'Ser un [mentor]',
+          pregunta: '¿Quién era Méntor?',
+          opciones: ['El amigo de Ulises que aconsejó a su hijo Telémaco', 'Un médico griego', 'Un general romano'],
+          reliquia: 'En la Odisea, la diosa Atenea toma la forma de Méntor para guiar a Telémaco. Un mentor es un consejero o guía.'
+        },
+        {
+          expresion: 'Ver las [orejas] al lobo',
+          pregunta: '¿Por qué las «orejas» del lobo?',
+          opciones: ['Porque es lo primero que asoma cuando acecha', 'Porque son su punto débil', 'Porque los pastores las cortaban como trofeo'],
+          reliquia: 'Cuando el lobo se esconde entre los matorrales, lo primero que se ve son sus orejas. Verle las orejas al lobo es darse cuenta del peligro antes de que llegue.'
+        },
+        {
+          expresion: 'Tomar [cartas] en el asunto',
+          pregunta: '¿De qué juego viene?',
+          opciones: ['De los naipes: tomar cartas es entrar en la partida', 'De una carta oficial', 'De un mapa'],
+          reliquia: 'Tomar cartas en el asunto es intervenir en él.'
+        }
+      ] },
+
+      // Día 125
+      { reliquias: [
+        {
+          expresion: 'No ver más allá de sus [narices]',
+          pregunta: '¿Qué significa «no ver más allá de sus narices»?',
+          opciones: ['Ser corto de miras', 'Ser miope', 'Ser muy curioso'],
+          reliquia: 'Es no ver lo que no se tiene justo delante.'
+        },
+        {
+          expresion: 'Más solo que la [una]',
+          pregunta: '¿Qué es «la una»?',
+          opciones: ['La hora, que es la única que suena con una sola campanada', 'Una carta', 'Una persona'],
+          reliquia: 'A la una, el reloj da una sola campanada. Estar más solo que la una es estar completamente solo.'
+        },
+        {
+          expresion: 'Ser el amo del [cotarro]',
+          pregunta: '¿Qué era un «cotarro»?',
+          opciones: ['Un albergue donde dormían los pobres y vagabundos', 'Un corral de gallinas', 'Un mercado de pueblo'],
+          reliquia: 'En el cotarro se recogía de noche a los mendigos. Ser el amo del cotarro es mandar en un grupo.'
+        }
+      ] },
+
+      // Día 126
+      { reliquias: [
+        {
+          expresion: 'Más se perdió en [Cuba]',
+          pregunta: '¿Qué se perdió en Cuba?',
+          opciones: ['Las últimas colonias españolas en 1898', 'Una flota cargada de oro', 'Una cosecha de azúcar'],
+          reliquia: 'En 1898 España perdió Cuba, Puerto Rico y Filipinas. La frase sirve para consolarse quitando importancia a una pérdida.'
+        },
+        {
+          expresion: 'Poner el carro delante de los [bueyes]',
+          pregunta: '¿Qué tiene de malo poner el carro delante de los «bueyes»?',
+          opciones: ['Que así no se puede avanzar: se empieza por el final', 'Que se vuelca', 'Que los bueyes se asustan'],
+          reliquia: 'Es hacer las cosas al revés del orden lógico.'
+        },
+        {
+          expresion: 'Sacar las [castañas] del fuego',
+          pregunta: '¿De qué fábula viene?',
+          opciones: ['De la del mono que usa la pata del gato para sacar castañas de las brasas', 'De la de la cigarra y la hormiga', 'De la de la lechera'],
+          reliquia: 'En la fábula de La Fontaine, el mono se come las castañas y el gato se quema. Sacarle a alguien las castañas del fuego es resolverle un problema arriesgándose uno.'
+        }
+      ] },
+
+      // Día 127
+      { reliquias: [
+        {
+          expresion: 'Hacerse el [harakiri]',
+          pregunta: '¿Qué era el «harakiri»?',
+          opciones: ['Un suicidio ritual de los samuráis japoneses', 'Un arte marcial', 'Un baile'],
+          reliquia: 'Hacerse el harakiri es perjudicarse a uno mismo.'
+        },
+        {
+          expresion: 'Andarse por las [ramas]',
+          pregunta: '¿Por qué las «ramas»?',
+          opciones: ['Porque se dejan de lado el tronco y lo importante', 'Por los pájaros', 'Por los monos'],
+          reliquia: 'Quien se va por las ramas se aleja del tronco, de lo principal. Andarse por las ramas es dar rodeos sin ir al asunto.'
+        },
+        {
+          expresion: 'No caer en saco [roto]',
+          pregunta: '¿Qué pasa con lo que cae en un saco «roto»?',
+          opciones: ['Se pierde', 'Se rompe', 'Se mancha'],
+          reliquia: 'Lo que se echa en un saco roto se sale y se pierde. Algo que no cae en saco roto se tiene en cuenta.'
+        }
+      ] },
+
+      // Día 128
+      { reliquias: [
+        {
+          expresion: 'Morder el [polvo]',
+          pregunta: '¿Por qué el «polvo»?',
+          opciones: ['Por el guerrero que cae al suelo vencido', 'Por el polvo de los caminos', 'Por el polvo del molino'],
+          reliquia: 'Es la imagen del caballero derribado, con la cara contra el suelo. Morder el polvo es ser derrotado.'
+        },
+        {
+          expresion: 'Sin [comerlo] ni beberlo',
+          pregunta: '¿Qué se quiere decir con «comerlo»?',
+          opciones: ['Sin haber tenido parte en ello', 'Sin cobrar por ello', 'Sin hambre'],
+          reliquia: 'Es verse afectado por algo sin haber participado, como pagar una comida que no se ha probado.'
+        },
+        {
+          expresion: 'Pagar los [platos] rotos',
+          pregunta: '¿Qué «platos» son estos?',
+          opciones: ['Los que rompe otro y paga uno', 'Los de un banquete de boda', 'Los de la vajilla de un mesón'],
+          reliquia: 'Pagar los platos rotos es cargar con la culpa o con las consecuencias de algo que no ha hecho uno.'
+        }
+      ] },
+
+      // Día 129
+      { reliquias: [
+        {
+          expresion: 'Partir la [pana]',
+          pregunta: '¿Qué es la «pana»?',
+          opciones: ['Un tejido grueso y resistente', 'Un pan grande', 'La espalda'],
+          reliquia: 'La pana es un tejido fuerte y difícil de romper. Partir la pana es destacar o hacer algo con mucho éxito.'
+        },
+        {
+          expresion: 'Dar el [do] de pecho',
+          pregunta: '¿Qué es el «do de pecho»?',
+          opciones: ['La nota más aguda que alcanza un tenor', 'Un golpe en el pecho', 'El primer verso de una canción'],
+          reliquia: 'Es la nota más alta y difícil para un tenor. Dar el do de pecho es hacer el máximo esfuerzo.'
+        },
+        {
+          expresion: 'Hacer el [primo]',
+          pregunta: '¿Por qué «primo»?',
+          opciones: ['Porque los reyes llamaban primos a los nobles a los que pedían favores', 'Porque los primos pagaban las bodas', 'Porque los primos eran los más jóvenes de la casa'],
+          reliquia: 'Los reyes llamaban «primos» a los grandes de España, a menudo cuando necesitaban que les prestaran dinero. Hacer el primo es dejarse engañar.'
+        }
+      ] },
+
+      // Día 130
+      { reliquias: [
+        {
+          expresion: 'Quedarse a dos [velas]',
+          pregunta: '¿Qué «velas» son estas?',
+          opciones: ['Las de cera, cuando quedan dos al final de la misa', 'Las de un barco', 'Las noches sin dormir'],
+          reliquia: 'Una explicación cuenta que, en las iglesias, cuando se acababa el dinero se dejaban encendidas solo dos velas. Quedarse a dos velas es quedarse sin dinero o sin enterarse de nada.'
+        },
+        {
+          expresion: 'Cruzar el [charco]',
+          pregunta: '¿Qué es el «charco»?',
+          opciones: ['El océano Atlántico', 'El mar Mediterráneo', 'Un río de Madrid'],
+          reliquia: 'Es una forma jocosa de llamar al Atlántico. Cruzar el charco es viajar entre Europa y América.'
+        },
+        {
+          expresion: 'Dar el [brazo] a torcer',
+          pregunta: '¿De qué viene?',
+          opciones: ['De un pulso en el que se deja ganar al otro', 'De una lesión de guerra', 'De un saludo antiguo'],
+          reliquia: 'En un pulso, ceder es dejar que el otro nos tuerza el brazo. Dar el brazo a torcer es rendirse y aceptar la opinión ajena.'
+        }
+      ] },
+
+      // Día 131
+      { reliquias: [
+        {
+          expresion: 'No tener [abuela]',
+          pregunta: '¿Qué significa «no tener abuela»?',
+          opciones: ['Que uno se alaba a sí mismo porque no hay una abuela que lo haga', 'Que uno es huérfano', 'Que uno es muy joven'],
+          reliquia: 'Las abuelas suelen alabar a sus nietos. A quien presume de sí mismo se le dice que no tiene abuela.'
+        },
+        {
+          expresion: 'Un efecto [Pigmalión]',
+          pregunta: '¿Quién era Pigmalión?',
+          opciones: ['Un escultor que se enamoró de su estatua, que cobró vida', 'Un rey avaro', 'Un pintor de retratos'],
+          reliquia: 'Según el mito, Afrodita dio vida a Galatea, la estatua que esculpió Pigmalión. Hoy se habla de efecto Pigmalión cuando las expectativas sobre alguien influyen en lo que consigue.'
+        },
+        {
+          expresion: 'Estar en la cuerda [floja]',
+          pregunta: '¿Qué es la cuerda «floja»?',
+          opciones: ['La del funambulista, en la que es fácil caerse', 'Una cuerda rota', 'La de una guitarra'],
+          reliquia: 'Estar en la cuerda floja es estar en una situación inestable.'
+        }
+      ] },
+
+      // Día 132
+      { reliquias: [
+        {
+          expresion: 'Ponerse de [largo]',
+          pregunta: '¿Qué es ponerse de «largo»?',
+          opciones: ['Vestirse por primera vez de mujer adulta, con traje largo', 'Crecer', 'Viajar lejos'],
+          reliquia: 'Era la puesta de largo, la presentación en sociedad de las jóvenes. Hoy se dice de cualquier estreno.'
+        },
+        {
+          expresion: 'No caber un [alfiler]',
+          pregunta: '¿Por qué un «alfiler»?',
+          opciones: ['Porque es lo más pequeño que se puede imaginar meter en un sitio', 'Por las costureras', 'Por un juego de niños'],
+          reliquia: 'Si no cabe ni un alfiler, el sitio está abarrotado.'
+        },
+        {
+          expresion: 'Ponerse [moños]',
+          pregunta: '¿Qué son los «moños»?',
+          opciones: ['Los adornos del pelo, por darse importancia', 'Los lazos', 'Los sombreros'],
+          reliquia: 'Ponerse moños es presumir o darse aires.'
+        }
+      ] },
+
+      // Día 133
+      { reliquias: [
+        {
+          expresion: 'De [cajón]',
+          pregunta: '¿Qué es algo «de cajón»?',
+          opciones: ['Evidente, de lo más normal', 'Viejo', 'Escondido'],
+          reliquia: 'Ser de cajón es ser obvio, algo que no necesita explicación.'
+        },
+        {
+          expresion: 'Sin pies ni [cabeza]',
+          pregunta: '¿Qué es algo «sin pies ni cabeza»?',
+          opciones: ['Sin sentido ni orden', 'Sin principio', 'Sin fin'],
+          reliquia: 'Lo que no tiene ni pies ni cabeza no tiene lógica alguna.'
+        },
+        {
+          expresion: 'Más rico que [Creso]',
+          pregunta: '¿Quién era Creso?',
+          opciones: ['Un rey de Lidia famoso por su enorme riqueza', 'Un banquero de Roma', 'Un pirata'],
+          reliquia: 'Creso reinó en Lidia en el siglo VI antes de Cristo y su riqueza se hizo legendaria. Más rico que Creso es riquísimo.'
+        }
+      ] },
+
+      // Día 134
+      { reliquias: [
+        {
+          expresion: 'A pedir de [boca]',
+          pregunta: '¿Qué es «a pedir de boca»?',
+          opciones: ['Tal y como uno lo habría pedido', 'Con hambre', 'Gritando'],
+          reliquia: 'Salir algo a pedir de boca es salir perfecto, como uno lo deseaba.'
+        },
+        {
+          expresion: 'De [padre] y muy señor mío',
+          pregunta: '¿Qué significa «de padre y muy señor mío»?',
+          opciones: ['Enorme, de grandes proporciones', 'Muy educado', 'De buena familia'],
+          reliquia: 'Se dice de algo muy grande o intenso: «un susto de padre y muy señor mío».'
+        },
+        {
+          expresion: 'Más viejo que la [tos]',
+          pregunta: '¿Por qué la «tos»?',
+          opciones: ['Porque la tos existe desde siempre', 'Porque tosen los viejos', 'Por un remedio antiguo'],
+          reliquia: 'Ser más viejo que la tos es ser antiquísimo.'
+        }
+      ] },
+
+      // Día 135
+      { reliquias: [
+        {
+          expresion: 'Hacerse [cruces]',
+          pregunta: '¿Por qué «cruces»?',
+          opciones: ['Por santiguarse de asombro o de miedo', 'Por un juego de mesa', 'Por marcar el calendario'],
+          reliquia: 'Quien se santigua varias veces está muy sorprendido. Hacerse cruces es asombrarse mucho.'
+        },
+        {
+          expresion: 'Estar de [morros]',
+          pregunta: '¿Qué son los «morros»?',
+          opciones: ['Los labios abultados, como los de un animal enfadado', 'Las narices', 'Los mofletes'],
+          reliquia: 'El morro es la parte delantera de la cara de algunos animales. Estar de morros es estar enfadado, con los labios apretados.'
+        },
+        {
+          expresion: 'No dar pie con [bola]',
+          pregunta: '¿De qué juego viene?',
+          opciones: ['De un juego en que se golpeaba la bola con el pie', 'Del billar', 'De los bolos'],
+          reliquia: 'Quien no acierta a dar a la bola con el pie lo hace todo mal. No dar pie con bola es equivocarse una y otra vez.'
+        }
+      ] },
+
+      // Día 136
+      { reliquias: [
+        {
+          expresion: 'Ir a [Canosa]',
+          pregunta: '¿Qué pasó en Canosa?',
+          opciones: ['Un emperador esperó tres días en la nieve el perdón del papa', 'Se firmó una paz entre reinos', 'Se coronó a un rey'],
+          reliquia: 'En 1077, el emperador Enrique IV acudió descalzo al castillo de Canossa para pedir perdón al papa Gregorio VII. Ir a Canosa es humillarse para pedir perdón.'
+        },
+        {
+          expresion: 'Pegársele a uno las [sábanas]',
+          pregunta: '¿Qué significa?',
+          opciones: ['Quedarse dormido más de la cuenta', 'Tener calor', 'Dormir en la cama ajena'],
+          reliquia: 'Como si las sábanas no le dejaran levantarse.'
+        },
+        {
+          expresion: 'Poner el dedo en la [llaga]',
+          pregunta: '¿Qué es la «llaga»?',
+          opciones: ['Una herida abierta', 'Un error de cálculo', 'Una mancha'],
+          reliquia: 'Tocar una herida es justo lo que más duele. Poner el dedo en la llaga es señalar el punto más delicado de un asunto.'
+        }
+      ] },
+
+      // Día 137
+      { reliquias: [
+        {
+          expresion: 'Ser un [vándalo]',
+          pregunta: '¿Quiénes eran los vándalos?',
+          opciones: ['Un pueblo germánico que saqueó Roma en el año 455', 'Unos piratas del norte', 'Una tribu de Asia'],
+          reliquia: 'Los vándalos pasaron por Hispania antes de llegar al norte de África y saquear Roma. Un vándalo es quien destroza por gusto.'
+        },
+        {
+          expresion: 'Hacerse la [mosquita] muerta',
+          pregunta: '¿Qué hace una «mosquita muerta»?',
+          opciones: ['Aparenta ser inofensiva sin serlo', 'Se esconde para no trabajar', 'Se desmaya a menudo'],
+          reliquia: 'Hacerse la mosquita muerta es fingir ser inocente o débil para conseguir algo.'
+        },
+        {
+          expresion: 'Estar en [Belén] con los pastores',
+          pregunta: '¿Por qué en «Belén»?',
+          opciones: ['Por los pastores del belén, que miran embobados al Niño', 'Por un pueblo de Toledo', 'Por un mesón famoso'],
+          reliquia: 'Estar en Belén es estar distraído, ajeno a lo que pasa, como las figuritas del nacimiento.'
+        }
+      ] },
+
+      // Día 138
+      { reliquias: [
+        {
+          expresion: 'En paños [menores]',
+          pregunta: '¿Qué son los «paños menores»?',
+          opciones: ['La ropa interior', 'Los pañales', 'Las servilletas'],
+          reliquia: 'Estar en paños menores es estar en ropa interior.'
+        },
+        {
+          expresion: 'Tener [pájaros] en la cabeza',
+          pregunta: '¿Qué significan los «pájaros»?',
+          opciones: ['Ideas que vuelan sin sentido', 'Ruidos en los oídos', 'Canciones pegadizas'],
+          reliquia: 'Como pájaros que revolotean, son ideas sin fundamento. Tener pájaros en la cabeza es ser poco sensato o soñador.'
+        },
+        {
+          expresion: 'Renacer como el ave [fénix]',
+          pregunta: '¿Qué hacía el ave «fénix»?',
+          opciones: ['Renacía de sus propias cenizas', 'Volaba sin descansar nunca', 'Hablaba como las personas'],
+          reliquia: 'En la mitología, el fénix ardía y renacía de sus cenizas. Renacer como el ave fénix es recuperarse cuando todo parecía perdido.'
+        }
+      ] },
+
+      // Día 139
+      { reliquias: [
+        {
+          expresion: 'Hablar en [plata]',
+          pregunta: '¿Qué es hablar en «plata»?',
+          opciones: ['Hablar claro, sin rodeos', 'Hablar de dinero', 'Hablar muy bien'],
+          reliquia: 'Como la moneda de plata, que no engaña. Hablar en plata es decir las cosas con claridad.'
+        },
+        {
+          expresion: 'Ser una [celestina]',
+          pregunta: '¿Quién era Celestina?',
+          opciones: ['Una alcahueta de una obra de teatro de 1499', 'Una santa de Toledo', 'Una reina de Castilla'],
+          reliquia: 'Es la alcahueta de la tragicomedia de Calisto y Melibea, de Fernando de Rojas. Una celestina es quien concierta amores.'
+        },
+        {
+          expresion: 'Echar el [cierre]',
+          pregunta: '¿Qué es el «cierre»?',
+          opciones: ['La persiana metálica de una tienda', 'Una cremallera', 'El final de un libro'],
+          reliquia: 'Al acabar la jornada se baja el cierre del comercio. Echar el cierre es terminar algo.'
+        }
+      ] },
+
+      // Día 140
+      { reliquias: [
+        {
+          expresion: 'A la buena de [Dios]',
+          pregunta: '¿Qué significa «a la buena de Dios»?',
+          opciones: ['Sin preparación, confiando en la suerte', 'Con mucha fe', 'Con permiso de la Iglesia'],
+          reliquia: 'Hacer algo a la buena de Dios es hacerlo sin preparación, dejándolo al azar.'
+        },
+        {
+          expresion: 'No pintar [nada]',
+          pregunta: '¿Qué es «pintar» aquí?',
+          opciones: ['Tener importancia, contar para algo', 'Usar pinceles', 'Mentir'],
+          reliquia: 'No pintar nada es no tener ningún papel en un asunto.'
+        },
+        {
+          expresion: 'Al pie del [cañón]',
+          pregunta: '¿Qué es estar «al pie del cañón»?',
+          opciones: ['En el puesto, sin abandonarlo', 'En la guerra', 'En un barco'],
+          reliquia: 'Es la imagen del artillero que no se aparta de su pieza. Estar al pie del cañón es no abandonar la tarea.'
+        }
+      ] },
+
+      // Día 141
+      { reliquias: [
+        {
+          expresion: 'Ser un [titán]',
+          pregunta: '¿Quiénes eran los titanes?',
+          opciones: ['Unos dioses gigantes de la mitología griega', 'Unos guerreros de Roma', 'Unos marineros'],
+          reliquia: 'Los titanes gobernaron el mundo antes que los dioses del Olimpo. Un titán es alguien de una fuerza o una talla enormes.'
+        },
+        {
+          expresion: 'Caerse del [guindo]',
+          pregunta: '¿Qué es un «guindo»?',
+          opciones: ['El árbol de las guindas', 'Un tejado alto', 'Un caballo'],
+          reliquia: 'Caerse del guindo es darse cuenta de algo de lo que todos se habían dado cuenta antes, como quien baja de las alturas.'
+        },
+        {
+          expresion: 'Hacer [castillos] en el aire',
+          pregunta: '¿Qué son esos «castillos»?',
+          opciones: ['Fantasías sin fundamento', 'Nubes con forma de torre', 'Castillos de fuegos artificiales'],
+          reliquia: 'Un castillo sin cimientos no se sostiene. Hacer castillos en el aire es hacerse ilusiones sin base.'
+        }
+      ] },
+
+      // Día 142
+      { reliquias: [
+        {
+          expresion: 'Ser el último [mono]',
+          pregunta: '¿Por qué el «mono»?',
+          opciones: ['Por el mono de feria, que era lo menos importante del espectáculo', 'Por el mono de trabajo', 'Por un juego de cartas'],
+          reliquia: 'Ser el último mono es ser el menos importante de un grupo.'
+        },
+        {
+          expresion: 'Hacer [tilín]',
+          pregunta: '¿Qué es el «tilín»?',
+          opciones: ['El sonido de una campanilla', 'Un juego de cartas', 'Un pellizco'],
+          reliquia: 'Es la onomatopeya de la campanilla. Hacer tilín es gustar o atraer a alguien.'
+        },
+        {
+          expresion: 'A [vuelapluma]',
+          pregunta: '¿Qué es escribir «a vuelapluma»?',
+          opciones: ['Deprisa, sin pensar mucho', 'Con pluma de ave', 'En verso'],
+          reliquia: 'Es escribir dejando volar la pluma, rápido y sin corregir.'
+        }
+      ] },
+
+      // Día 143
+      { reliquias: [
+        {
+          expresion: 'Más raro que un perro [verde]',
+          pregunta: '¿Por qué un perro «verde»?',
+          opciones: ['Porque no existen', 'Por un cuento infantil', 'Por un perro pintado en una feria'],
+          reliquia: 'Un perro verde es algo que no se ha visto nunca. Ser más raro que un perro verde es ser rarísimo.'
+        },
+        {
+          expresion: 'Ser [Juan Palomo]',
+          pregunta: '¿Qué dice Juan Palomo?',
+          opciones: ['«Yo me lo guiso, yo me lo como»', '«A quien madruga, Dios le ayuda»', '«Ande yo caliente»'],
+          reliquia: 'Es un personaje popular que lo hace todo él solo y no comparte nada. Ser Juan Palomo es ser muy individualista.'
+        },
+        {
+          expresion: 'Ser un don [Nadie]',
+          pregunta: '¿Por qué «don Nadie»?',
+          opciones: ['Por la ironía de dar tratamiento de don a quien no es nadie', 'Por un personaje de zarzuela', 'Por un noble arruinado'],
+          reliquia: 'Un don Nadie es una persona sin importancia que, a veces, se da aires.'
+        }
+      ] },
+
+      // Día 144
+      { reliquias: [
+        {
+          expresion: 'Ser el [perejil] de todas las salsas',
+          pregunta: '¿Por qué el «perejil»?',
+          opciones: ['Porque se pone en casi todos los guisos', 'Porque es muy barato', 'Porque lo crían en todos los huertos'],
+          reliquia: 'Quien es el perejil de todas las salsas está en todas partes y en todos los asuntos.'
+        },
+        {
+          expresion: 'Ser un [fariseo]',
+          pregunta: '¿Quiénes eran los fariseos?',
+          opciones: ['Un grupo judío al que el Evangelio acusa de hipocresía', 'Unos soldados romanos', 'Unos sacerdotes egipcios'],
+          reliquia: 'En el Evangelio, Jesús les reprocha cumplir la ley por fuera y no por dentro. Un fariseo es un hipócrita.'
+        },
+        {
+          expresion: 'Ser un [quijote]',
+          pregunta: '¿Por qué «quijote»?',
+          opciones: ['Por don Quijote, el caballero que defendía causas perdidas', 'Por una armadura', 'Por un hidalgo pobre de Toledo'],
+          reliquia: 'Un quijote es quien se lanza a defender causas nobles aunque no tenga posibilidades.'
+        }
+      ] },
+
+      // Día 145
+      { reliquias: [
+        {
+          expresion: 'Ser [uña] y carne',
+          pregunta: '¿Por qué «uña» y carne?',
+          opciones: ['Porque la uña está pegada a la carne y no se separa', 'Porque son los dos extremos del dedo', 'Porque se cortan a la vez'],
+          reliquia: 'La uña está tan unida a la carne que separarlas duele. Ser uña y carne es ser inseparables.'
+        },
+        {
+          expresion: 'Hacer [furor]',
+          pregunta: '¿Qué es el «furor»?',
+          opciones: ['Un entusiasmo arrollador', 'Un enfado', 'Una fiebre'],
+          reliquia: 'Hacer furor es estar muy de moda.'
+        },
+        {
+          expresion: 'Más contento que unas [castañuelas]',
+          pregunta: '¿Por qué las «castañuelas»?',
+          opciones: ['Porque suenan alegres en las fiestas', 'Porque son de madera', 'Porque se tocan de dos en dos'],
+          reliquia: 'Estar más contento que unas castañuelas es estar muy alegre.'
+        }
+      ] },
+
+      // Día 146
+      { reliquias: [
+        {
+          expresion: 'Al [contado]',
+          pregunta: '¿Qué es pagar «al contado»?',
+          opciones: ['Pagar en el momento, contando el dinero', 'A plazos', 'Con tarjeta'],
+          reliquia: 'Es pagar en el acto y en efectivo.'
+        },
+        {
+          expresion: 'Tener vista de [lince]',
+          pregunta: '¿Por qué el «lince»?',
+          opciones: ['Por la fama de su vista agudísima', 'Por sus orejas', 'Por su rapidez'],
+          reliquia: 'Se creía que el lince podía ver a través de las piedras. Tener vista de lince es ver muy bien.'
+        },
+        {
+          expresion: 'En [bandeja]',
+          pregunta: '¿Qué es dar algo «en bandeja»?',
+          opciones: ['Darlo todo hecho, muy fácil', 'Servirlo en una fiesta', 'Regalarlo'],
+          reliquia: 'Es poner algo tan fácil como servirlo en una bandeja.'
+        }
+      ] },
+
+      // Día 147
+      { reliquias: [
+        {
+          expresion: 'Coger el [tranquillo]',
+          pregunta: '¿Qué es el «tranquillo»?',
+          opciones: ['El paso o el modo de hacer algo', 'Un poco de tranquilidad', 'Una tranca pequeña'],
+          reliquia: 'Viene de «tranco», el paso largo. Coger el tranquillo es pillarle el truco a algo a fuerza de repetirlo.'
+        },
+        {
+          expresion: 'En carne [viva]',
+          pregunta: '¿Qué es tener algo «en carne viva»?',
+          opciones: ['Con la piel levantada, al descubierto', 'Muy rojo', 'Recién cortado'],
+          reliquia: 'Es tener una herida abierta. También, sentir un dolor muy reciente.'
+        },
+        {
+          expresion: 'Tener [enchufe]',
+          pregunta: '¿Por qué «enchufe»?',
+          opciones: ['Porque el enchufe da corriente, igual que un contacto da ventajas', 'Por un electricista famoso', 'Por un aparato de radio'],
+          reliquia: 'Tener enchufe es tener un contacto que consigue favores o un puesto.'
+        }
+      ] },
+
+      // Día 148
+      { reliquias: [
+        {
+          expresion: 'Poner en [entredicho]',
+          pregunta: '¿Qué era un «entredicho»?',
+          opciones: ['Una prohibición de la Iglesia', 'Una frase dicha a medias', 'Un juicio entre dos testigos'],
+          reliquia: 'Era una censura eclesiástica que prohibía ciertos oficios o sacramentos. Poner algo en entredicho es dudar de su verdad o de su valor.'
+        },
+        {
+          expresion: 'Ser cabeza de [turco]',
+          pregunta: '¿Por qué de «turco»?',
+          opciones: ['Por los turcos, enemigos tradicionales a los que se culpaba de todo', 'Por un muñeco de feria contra el que se lanzaban pelotas', 'Por un sombrero'],
+          reliquia: 'Una explicación lo relaciona con los muñecos con cabeza de turco que servían de diana en las ferias. Es quien carga con las culpas de otros.'
+        },
+        {
+          expresion: 'Más negro que el [betún]',
+          pregunta: '¿Qué es el «betún»?',
+          opciones: ['La crema oscura para lustrar zapatos', 'El carbón', 'La tinta'],
+          reliquia: 'Ser más negro que el betún es ser negrísimo.'
+        }
+      ] },
+
+      // Día 149
+      { reliquias: [
+        {
+          expresion: 'Andar con pies de [plomo]',
+          pregunta: '¿Por qué el «plomo»?',
+          opciones: ['Por ser muy pesado: se pisa con cuidado y despacio', 'Porque es un metal blando', 'Porque se usaba en las suelas'],
+          reliquia: 'Con pies de plomo se camina despacio y asentando bien cada paso. Es actuar con mucha prudencia.'
+        },
+        {
+          expresion: 'Estar hecho unos [zorros]',
+          pregunta: '¿Qué son aquí los «zorros»?',
+          opciones: ['Tiras de piel para sacudir el polvo', 'Animales', 'Pícaros'],
+          reliquia: 'Los zorros eran tiras de piel o de tela atadas a un palo para quitar el polvo, y acababan destrozados. Estar hecho unos zorros es estar agotado.'
+        },
+        {
+          expresion: 'Hablar por los [codos]',
+          pregunta: '¿Por qué por los «codos»?',
+          opciones: ['Por la costumbre de dar codazos al que escucha', 'Porque los codos se mueven al hablar', 'Porque se apoyaban en la mesa para charlar'],
+          reliquia: 'Quien habla mucho va tocando con el codo a su interlocutor para que le atienda. Hablar por los codos es hablar sin parar.'
+        }
+      ] },
+
+      // Día 150
+      { reliquias: [
+        {
+          expresion: 'Al rojo [vivo]',
+          pregunta: '¿Qué es estar «al rojo vivo»?',
+          opciones: ['Tan caliente que brilla, como el hierro en la fragua', 'Enfadado', 'Colorado'],
+          reliquia: 'Al rojo vivo es el hierro calentado hasta ponerse incandescente. Se dice de una situación muy tensa.'
+        },
+        {
+          expresion: 'A mano [armada]',
+          pregunta: '¿Qué significa «a mano armada»?',
+          opciones: ['Con un arma en la mano', 'Con fuerza', 'Con guantes'],
+          reliquia: 'Un robo a mano armada es el que se comete con armas.'
+        },
+        {
+          expresion: 'Poner las [peras] a cuarto',
+          pregunta: '¿Qué era aquí un «cuarto»?',
+          opciones: ['Una moneda de poco valor', 'La cuarta parte de una pera', 'Una habitación'],
+          reliquia: 'El cuarto era una moneda de cobre. Poner las peras a cuarto es apretar a alguien y obligarle a hacer algo, como al vendedor al que se le fija un precio bajo.'
+        }
+      ] },
+
+      // Día 151
+      { reliquias: [
+        {
+          expresion: 'Hacerse el [remolón]',
+          pregunta: '¿Qué es un «remolón»?',
+          opciones: ['Quien se resiste a hacer algo o se retrasa', 'Quien rema mal', 'Quien da vueltas'],
+          reliquia: 'Un remolón es quien se resiste a hacer algo o lo va retrasando. Hacerse el remolón es hacerse de rogar.'
+        },
+        {
+          expresion: 'Tener malas [pulgas]',
+          pregunta: '¿Por qué las «pulgas»?',
+          opciones: ['Porque pican y ponen de mal humor', 'Porque eran un castigo', 'Porque las tenían los mendigos'],
+          reliquia: 'Quien tiene pulgas está siempre rascándose y de mal humor. Tener malas pulgas es tener mal genio.'
+        },
+        {
+          expresion: 'De [mentirijillas]',
+          pregunta: '¿Qué es algo «de mentirijillas»?',
+          opciones: ['De broma, no de verdad', 'Muy mentiroso', 'Secreto'],
+          reliquia: 'Es un diminutivo cariñoso de «mentira». Hacer algo de mentirijillas es hacerlo en broma.'
+        }
+      ] },
+
+      // Día 152
+      { reliquias: [
+        {
+          expresion: 'Dar la vuelta a la [tortilla]',
+          pregunta: '¿Qué es dar la vuelta a la «tortilla»?',
+          opciones: ['Cambiar por completo una situación', 'Cocinar', 'Engañar'],
+          reliquia: 'Como al darle la vuelta a la tortilla en la sartén, lo de abajo pasa arriba.'
+        },
+        {
+          expresion: 'Al [unísono]',
+          pregunta: '¿Qué significa «unísono»?',
+          opciones: ['Con un solo sonido, a la vez', 'Uno detrás de otro', 'Por turnos'],
+          reliquia: 'Viene del latín unisonus. Hacer algo al unísono es hacerlo todos a la vez.'
+        },
+        {
+          expresion: 'Estar hecho un [trapo]',
+          pregunta: '¿Qué es estar «hecho un trapo»?',
+          opciones: ['Estar agotado o muy abatido', 'Estar sucio', 'Estar en ropa vieja'],
+          reliquia: 'Como un trapo gastado, sin fuerzas.'
+        }
+      ] },
+
+      // Día 153
+      { reliquias: [
+        {
+          expresion: 'Dar [cancha]',
+          pregunta: '¿De dónde viene «cancha»?',
+          opciones: ['Del quechua, \'recinto, lugar cercado\'', 'Del latín, \'cancela\'', 'Del inglés, \'oportunidad\''],
+          reliquia: 'En América, la cancha es el campo de juego. Dar cancha a alguien es darle espacio y oportunidades.'
+        },
+        {
+          expresion: 'Quedarse para vestir [santos]',
+          pregunta: '¿Qué era vestir santos?',
+          opciones: ['Arreglar y vestir las imágenes de la iglesia, tarea de las solteras', 'Coser hábitos de monja', 'Pintar retablos'],
+          reliquia: 'Se encargaba a las mujeres solteras. Quedarse para vestir santos era, en el habla de antes, quedarse soltera.'
+        },
+        {
+          expresion: 'Liar el [petate]',
+          pregunta: '¿Qué es el «petate»?',
+          opciones: ['El lío de ropa y la esterilla de dormir', 'Una maleta de cuero', 'Un pañuelo para el cuello'],
+          reliquia: 'El petate era la esterilla con la que se envolvía la ropa de un soldado o un marinero. Liar el petate es marcharse... y también morirse.'
+        }
+      ] },
+
+      // Día 154
+      { reliquias: [
+        {
+          expresion: 'El suplicio de [Tántalo]',
+          pregunta: '¿Cuál era el castigo de Tántalo?',
+          opciones: ['Tener agua y fruta al alcance que se alejaban cuando quería tomarlas', 'Empujar una roca', 'Ser devorado por un águila'],
+          reliquia: 'Es el tormento de desear algo que está cerca pero nunca se alcanza.'
+        },
+        {
+          expresion: 'Hincar el [pico]',
+          pregunta: '¿Qué es hincar el «pico»?',
+          opciones: ['Morirse, como el ave que cae de pico', 'Picotear', 'Trabajar con un pico'],
+          reliquia: 'Es otra forma coloquial de decir morir.'
+        },
+        {
+          expresion: 'Ser la [repanocha]',
+          pregunta: '¿Qué es la «repanocha»?',
+          opciones: ['Una forma exagerada de decir que algo es el colmo', 'Una mazorca grande', 'Un plato típico'],
+          reliquia: 'Viene de «panocha», la mazorca de maíz, con un prefijo intensivo. Ser la repanocha es ser el colmo.'
+        }
+      ] },
+
+      // Día 155
+      { reliquias: [
+        {
+          expresion: 'Ser un [cenizo]',
+          pregunta: '¿Qué es un «cenizo»?',
+          opciones: ['Una persona que trae mala suerte', 'Un cubo de ceniza', 'Un pájaro gris'],
+          reliquia: 'El cenizo es una planta silvestre de color ceniciento, y la ceniza se asociaba a la desgracia. Ser un cenizo es ser gafe.'
+        },
+        {
+          expresion: 'Un juicio [salomónico]',
+          pregunta: '¿Qué hizo Salomón?',
+          opciones: ['Propuso partir a un niño por la mitad para descubrir a la verdadera madre', 'Dictó las primeras leyes de Israel', 'Construyó el arca'],
+          reliquia: 'La verdadera madre prefirió renunciar al niño antes que verlo morir. Un juicio salomónico es una decisión sabia, que reparte con justicia.'
+        },
+        {
+          expresion: 'Ser el rey del [mambo]',
+          pregunta: '¿Qué es el «mambo»?',
+          opciones: ['Un baile cubano muy popular a mediados del siglo XX', 'Un juego de cartas', 'Un instrumento'],
+          reliquia: 'El mambo fue un baile de moda gracias a Pérez Prado, al que llamaban el Rey del Mambo. Ser el rey del mambo es creerse el más importante.'
+        }
+      ] },
+
+      // Día 156
+      { reliquias: [
+        {
+          expresion: 'Ni [papa]',
+          pregunta: '¿Qué es aquí «papa»?',
+          opciones: ['Nada en absoluto', 'El pontífice', 'La patata'],
+          reliquia: 'No saber ni papa es no saber nada. Viene quizá del latín pappa, la papilla de los niños.'
+        },
+        {
+          expresion: 'A la [pata] la llana',
+          pregunta: '¿Qué es «a la pata la llana»?',
+          opciones: ['Con sencillez, sin ceremonias', 'Andando descalzo', 'Cojeando'],
+          reliquia: 'Es como andar con el pie plano, sin afectación. Hacer algo a la pata la llana es hacerlo con naturalidad.'
+        },
+        {
+          expresion: 'A [tontas] y a locas',
+          pregunta: '¿Qué significa «a tontas y a locas»?',
+          opciones: ['Sin pensar, sin orden', 'Bailando', 'Con mujeres'],
+          reliquia: 'Es hacer las cosas sin reflexión ni concierto.'
+        }
+      ] },
+
+      // Día 157
+      { reliquias: [
+        {
+          expresion: 'Ser un buen [samaritano]',
+          pregunta: '¿Qué hizo el samaritano?',
+          opciones: ['Ayudó a un herido junto al camino cuando otros pasaban de largo', 'Construyó un pozo', 'Curó a un rey'],
+          reliquia: 'En la parábola, un hombre de Samaria socorre al herido que un sacerdote y un levita ignoraron. Un buen samaritano es quien ayuda sin esperar nada.'
+        },
+        {
+          expresion: 'Por si las [moscas]',
+          pregunta: '¿Qué son aquí las «moscas»?',
+          opciones: ['Una forma de decir «por si acaso»', 'Las monedas', 'Los insectos de la comida'],
+          reliquia: 'Es una forma jocosa de decir «por si acaso», «por lo que pueda pasar». En la jerga de germanía, «mosca» era también el dinero.'
+        },
+        {
+          expresion: 'Hacer [rabona]',
+          pregunta: '¿Qué hace quien «hace rabona»?',
+          opciones: ['Faltar a clase sin permiso', 'Hacer trampas en el juego', 'Ponerse un rabo de disfraz'],
+          reliquia: 'Hacer rabona es faltar a clase sin permiso, igual que «hacer novillos» o «hacer pellas». El origen de la palabra no está claro.'
+        }
+      ] },
+
+      // Día 158
+      { reliquias: [
+        {
+          expresion: 'A [marchas] forzadas',
+          pregunta: '¿Qué es una «marcha forzada»?',
+          opciones: ['Una marcha militar más larga de lo normal', 'Un desfile', 'Un paso de baile'],
+          reliquia: 'Las tropas hacían marchas forzadas cuando había prisa. Hacer algo a marchas forzadas es hacerlo con mucha prisa.'
+        },
+        {
+          expresion: 'Echar [balones] fuera',
+          pregunta: '¿De qué deporte viene?',
+          opciones: ['Del fútbol, cuando se despeja el balón lejos de la portería', 'Del baloncesto', 'Del tenis'],
+          reliquia: 'Mandar el balón fuera aleja el peligro. Echar balones fuera es eludir una responsabilidad o una pregunta.'
+        },
+        {
+          expresion: 'Hacer el [canelo]',
+          pregunta: '¿Qué es un «canelo»?',
+          opciones: ['Un perro de color canela, tenido por tonto', 'Un dulce de canela', 'Un payaso'],
+          reliquia: 'Se dice que viene de los perros de color canela, a los que se tenía por bobos. Hacer el canelo es hacer el tonto o dejarse engañar.'
+        }
+      ] },
+
+      // Día 159
+      { reliquias: [
+        {
+          expresion: 'No pegar [ojo]',
+          pregunta: '¿Qué es no pegar «ojo»?',
+          opciones: ['No poder dormir, no cerrar los párpados', 'No ver bien', 'No mirar a nadie'],
+          reliquia: 'Pegar ojo es cerrar los párpados para dormir. No pegar ojo es pasar la noche en vela.'
+        },
+        {
+          expresion: 'Tener mala [uva]',
+          pregunta: '¿Qué es aquí la «uva»?',
+          opciones: ['El vino, y con él el humor', 'La fruta podrida', 'La tierra de la viña'],
+          reliquia: 'Se dice que la mala uva da mal vino, y el mal vino, mal humor. Tener mala uva es tener mal carácter o mala intención.'
+        },
+        {
+          expresion: 'A [cántaros]',
+          pregunta: '¿Qué es un «cántaro»?',
+          opciones: ['Una vasija grande para el agua', 'Una nube', 'Un canalón'],
+          reliquia: 'Llover a cántaros es llover mucho, como si se vaciaran vasijas desde el cielo.'
+        }
+      ] },
+
+      // Día 160
+      { reliquias: [
+        {
+          expresion: 'La manzana de la [discordia]',
+          pregunta: '¿Qué fue la manzana de la «discordia»?',
+          opciones: ['La que Eris lanzó «para la más bella» entre tres diosas', 'La que comieron Adán y Eva', 'La de Guillermo Tell'],
+          reliquia: 'Paris tuvo que elegir entre Hera, Atenea y Afrodita, y su elección desencadenó la guerra de Troya. Es lo que provoca una disputa.'
+        },
+        {
+          expresion: 'Tener el toque de [Midas]',
+          pregunta: '¿Qué le pasaba al rey Midas?',
+          opciones: ['Todo lo que tocaba se convertía en oro', 'Tenía orejas de burro y nada más', 'Nunca envejecía'],
+          reliquia: 'Dioniso le concedió ese don y acabó siendo un castigo: hasta la comida se le volvía oro. Hoy se dice de quien hace prosperar todo lo que emprende.'
+        },
+        {
+          expresion: 'No tener pelos en la [lengua]',
+          pregunta: '¿Qué significa «no tener pelos en la lengua»?',
+          opciones: ['Decir lo que se piensa sin rodeos', 'Hablar con dificultad', 'Ser muy joven'],
+          reliquia: 'Nada estorba a la lengua de quien dice las cosas claras.'
+        }
+      ] },
+
+      // Día 161
+      { reliquias: [
+        {
+          expresion: 'Írsele a uno la [olla]',
+          pregunta: '¿Qué es aquí la «olla»?',
+          opciones: ['La cabeza', 'El estómago', 'La paciencia'],
+          reliquia: '«Olla» es en el habla coloquial la cabeza. Írsele a uno la olla es perder el juicio o despistarse.'
+        },
+        {
+          expresion: 'Dar [cuartelillo]',
+          pregunta: '¿Qué era el «cuartelillo»?',
+          opciones: ['El cuartel pequeño, donde se daba alojamiento y respiro', 'Un cuarto de hora', 'Una moneda de cuarto'],
+          reliquia: 'Dar cuartel era perdonar la vida al enemigo vencido. Dar cuartelillo es dar algo de margen o de confianza a alguien.'
+        },
+        {
+          expresion: 'Hacer el [oso]',
+          pregunta: '¿Por qué el «oso»?',
+          opciones: ['Por los osos de feria que bailaban y hacían gracias', 'Por un juego de niños', 'Por un torpe cazador'],
+          reliquia: 'Hacer el oso es hacer tonterías o el ridículo.'
+        }
+      ] },
+
+      // Día 162
+      { reliquias: [
+        {
+          expresion: 'Tirar la [toalla]',
+          pregunta: '¿De dónde viene «tirar la toalla»?',
+          opciones: ['Del boxeo, cuando el entrenador la lanza al ring para rendirse', 'De los baños públicos', 'De una costumbre de los toreros'],
+          reliquia: 'En el boxeo, el preparador arroja la toalla para detener el combate. Tirar la toalla es abandonar.'
+        },
+        {
+          expresion: 'Ser de la [cáscara] amarga',
+          pregunta: '¿Qué significa aquí la «cáscara» amarga?',
+          opciones: ['Tener ideas avanzadas o ser poco convencional', 'Ser muy amargado', 'Ser difícil de pelar'],
+          reliquia: 'Como las naranjas de cáscara amarga, que no son de las dulces. Se decía de quien tenía ideas avanzadas o no seguía las normas.'
+        },
+        {
+          expresion: 'Poner el [grito] en el cielo',
+          pregunta: '¿Por qué en el «cielo»?',
+          opciones: ['Por gritar tan alto que llega hasta el cielo', 'Por una oración', 'Por un pájaro'],
+          reliquia: 'Poner el grito en el cielo es protestar con mucha fuerza.'
+        }
+      ] },
+
+      // Día 163
+      { reliquias: [
+        {
+          expresion: 'A [bombo] y platillo',
+          pregunta: '¿Qué son el «bombo» y el platillo?',
+          opciones: ['Instrumentos de las bandas de música', 'Dos piezas de una balanza', 'Dos platos de cocina'],
+          reliquia: 'Son los instrumentos más ruidosos de una banda. Anunciar algo a bombo y platillo es darle mucha publicidad.'
+        },
+        {
+          expresion: 'No estar el [horno] para bollos',
+          pregunta: '¿Por qué el «horno»?',
+          opciones: ['Porque hay momentos en que el horno no está a la temperatura adecuada', 'Porque se rompía', 'Porque estaba lleno'],
+          reliquia: 'No estar el horno para bollos es no ser el momento oportuno.'
+        },
+        {
+          expresion: 'Irse de [rositas]',
+          pregunta: '¿Qué le pasa a quien «se va de rositas»?',
+          opciones: ['Sale de un apuro sin castigo ni consecuencias', 'Se marcha con flores', 'Se va colorado de vergüenza'],
+          reliquia: 'Irse de rositas es salir de un apuro sin pagar por ello, como si nada.'
+        }
+      ] },
+
+      // Día 164
+      { reliquias: [
+        {
+          expresion: 'Estar con el agua al [cuello]',
+          pregunta: '¿Qué es tener el agua al «cuello»?',
+          opciones: ['Estar en una situación muy apurada', 'Estar nadando', 'Tener sed'],
+          reliquia: 'Es la imagen del que está a punto de ahogarse.'
+        },
+        {
+          expresion: 'No dar un palo al [agua]',
+          pregunta: '¿Qué es no dar un palo al «agua»?',
+          opciones: ['No trabajar nada, como el remero que no rema', 'No nadar', 'No pescar'],
+          reliquia: 'Es la imagen del que va en la barca sin remar. No dar un palo al agua es no hacer nada.'
+        },
+        {
+          expresion: 'Empinar el [codo]',
+          pregunta: '¿Por qué el «codo»?',
+          opciones: ['Porque se levanta al beber', 'Porque se apoya en la barra', 'Porque duele al día siguiente'],
+          reliquia: 'Al llevarse el vaso a la boca, el codo sube. Empinar el codo es beber, sobre todo alcohol.'
+        }
+      ] },
+
+      // Día 165
+      { reliquias: [
+        {
+          expresion: 'Tener más fuerza que [Sansón]',
+          pregunta: '¿De dónde le venía la fuerza a Sansón?',
+          opciones: ['De su pelo, que nunca se cortaba', 'De una espada', 'De una pócima'],
+          reliquia: 'Según la Biblia, perdió su fuerza cuando Dalila le cortó el pelo. Tener más fuerza que Sansón es ser fortísimo.'
+        },
+        {
+          expresion: 'A tumba [abierta]',
+          pregunta: '¿Qué es ir «a tumba abierta»?',
+          opciones: ['A toda velocidad, sin miedo al peligro', 'Llorando', 'De luto'],
+          reliquia: 'Es arriesgarse como si la tumba estuviera ya abierta. Se dice mucho en el ciclismo, en los descensos.'
+        },
+        {
+          expresion: 'Coger el [toro] por los cuernos',
+          pregunta: '¿Por qué por los «cuernos»?',
+          opciones: ['Porque es la forma más arriesgada y directa de enfrentarse a él', 'Porque es por donde se le sujeta en el campo', 'Por un juego de los mozos de los pueblos'],
+          reliquia: 'Agarrar al toro por los cuernos es enfrentarse de cara al peligro. Coger el toro por los cuernos es afrontar un problema con decisión.'
+        }
+      ] },
+
+      // Día 166
+      { reliquias: [
+        {
+          expresion: 'No tener vela en este [entierro]',
+          pregunta: '¿Por qué la vela en el «entierro»?',
+          opciones: ['Porque solo llevaban vela los que tenían parte en el cortejo', 'Porque los entierros eran de noche', 'Porque la vela se pagaba'],
+          reliquia: 'En los entierros, cada uno llevaba su vela. Quien no tenía vela no pintaba nada. Hoy se dice a quien se mete donde no le llaman.'
+        },
+        {
+          expresion: 'Sin pena ni [gloria]',
+          pregunta: '¿Qué es pasar «sin pena ni gloria»?',
+          opciones: ['Sin destacar para bien ni para mal', 'Sin sufrir', 'Sin morir'],
+          reliquia: 'Es pasar desapercibido.'
+        },
+        {
+          expresion: 'El hilo de [Ariadna]',
+          pregunta: '¿Qué hizo Ariadna?',
+          opciones: ['Dio a Teseo un ovillo para salir del laberinto del Minotauro', 'Tejió un tapiz para Ulises', 'Ató a un gigante'],
+          reliquia: 'Gracias al hilo de Ariadna, Teseo encontró la salida del laberinto. Es lo que permite salir de un problema complicado.'
+        }
+      ] },
+
+      // Día 167
+      { reliquias: [
+        {
+          expresion: 'Ser un [hacha]',
+          pregunta: '¿Por qué un «hacha»?',
+          opciones: ['Por ser una herramienta que corta y resuelve con decisión', 'Por un hacha de guerra', 'Por una vela grande'],
+          reliquia: 'Ser un hacha es ser muy hábil en algo.'
+        },
+        {
+          expresion: 'No es nada del otro [jueves]',
+          pregunta: '¿Qué pasaba aquel «jueves»?',
+          opciones: ['Se cree que alude a un jueves memorable, quizá el Jueves Santo o el de Corpus', 'Había mercado', 'Se cobraba la paga'],
+          reliquia: 'Se suele relacionar con las grandes fiestas que caían en jueves. No ser nada del otro jueves es no ser nada extraordinario.'
+        },
+        {
+          expresion: 'Estar a partir un [piñón]',
+          pregunta: '¿Qué es partir un «piñón»?',
+          opciones: ['Compartir hasta algo tan pequeño como un piñón', 'Romper una piña', 'Abrir un candado'],
+          reliquia: 'Dos que están a partir un piñón se llevan tan bien que lo comparten todo.'
+        }
+      ] },
+
+      // Día 168
+      { reliquias: [
+        {
+          expresion: 'Morder el [anzuelo]',
+          pregunta: '¿Qué es el «anzuelo»?',
+          opciones: ['El gancho con cebo para pescar', 'Una trampa para pájaros', 'Un cebo envenenado'],
+          reliquia: 'El pez que muerde el anzuelo queda atrapado. Morder el anzuelo es caer en una trampa o un engaño.'
+        },
+        {
+          expresion: 'Ser una [odisea]',
+          pregunta: '¿Qué fue la «Odisea»?',
+          opciones: ['El largo y accidentado viaje de vuelta a casa de Ulises', 'Una batalla naval', 'Un poema sobre los dioses'],
+          reliquia: 'El poema de Homero cuenta los diez años que tardó Ulises en volver a Ítaca. Una odisea es un viaje o una empresa llena de dificultades.'
+        },
+        {
+          expresion: 'Ser un [mirlo] blanco',
+          pregunta: '¿Qué tiene de especial un mirlo «blanco»?',
+          opciones: ['Que es rarísimo: los mirlos son negros', 'Que canta mejor', 'Que vive más'],
+          reliquia: 'El mirlo es negro, así que uno blanco es casi imposible de encontrar. Un mirlo blanco es una persona o cosa excepcional.'
+        }
+      ] },
+
+      // Día 169
+      { reliquias: [
+        {
+          expresion: 'Ser un [anfitrión]',
+          pregunta: '¿Quién era Anfitrión?',
+          opciones: ['Un rey de Tebas de una comedia de Plauto', 'Un posadero griego', 'Un dios del vino'],
+          reliquia: 'En la comedia, Júpiter toma su aspecto, y el verdadero Anfitrión acaba invitando a todos a comer. De ahí, quien recibe invitados.'
+        },
+        {
+          expresion: 'Ser una [arpía]',
+          pregunta: '¿Qué era una «arpía»?',
+          opciones: ['Un monstruo mitológico con cara de mujer y cuerpo de ave', 'Una mujer que tocaba el arpa', 'Un ave de presa'],
+          reliquia: 'En la mitología griega eran monstruos que robaban y ensuciaban. Una arpía es una persona malvada y codiciosa.'
+        },
+        {
+          expresion: 'Ser el chocolate del [loro]',
+          pregunta: '¿Por qué el «loro»?',
+          opciones: ['Por el ahorro ridículo de quitarle el chocolate al loro para gastar menos', 'Porque los loros comen cacao', 'Por un loro que hablaba de chocolate'],
+          reliquia: 'Se cuenta de una familia arruinada que, para ahorrar, dejó sin su chocolate al loro. Es un ahorro insignificante ante un gasto mucho mayor.'
+        }
+      ] },
+
+      // Día 170
+      { reliquias: [
+        {
+          expresion: 'Estar como una [sopa]',
+          pregunta: '¿Qué es estar «como una sopa»?',
+          opciones: ['Empapado', 'Muy caliente', 'Borracho'],
+          reliquia: 'Es estar tan mojado como el pan en la sopa.'
+        },
+        {
+          expresion: 'Poner el [cascabel] al gato',
+          pregunta: '¿De qué fábula sale el «cascabel»?',
+          opciones: ['De la de los ratones que querían ponérselo al gato para oírlo venir', 'De la del gato con botas', 'De la del perro y el lobo'],
+          reliquia: 'Todos los ratones estaban de acuerdo en la idea, pero ninguno se atrevía a hacerlo. Poner el cascabel al gato es atreverse con lo difícil.'
+        },
+        {
+          expresion: 'Estar con la mosca detrás de la [oreja]',
+          pregunta: '¿Qué hace la mosca detrás de la «oreja»?',
+          opciones: ['Molesta y no deja estar tranquilo', 'Pica', 'Zumba al dormir'],
+          reliquia: 'Es estar receloso, con la sospecha de que algo no va bien.'
+        }
+      ] },
+
+      // Día 171
+      { reliquias: [
+        {
+          expresion: 'Sin [encomendarse] a Dios ni al diablo',
+          pregunta: '¿Qué es «encomendarse»?',
+          opciones: ['Confiarse a la protección de alguien', 'Comprar algo', 'Saludar'],
+          reliquia: 'Hacer algo sin encomendarse a nadie es hacerlo de forma temeraria, sin pensarlo.'
+        },
+        {
+          expresion: 'Ser un [filisteo]',
+          pregunta: '¿Quiénes eran los filisteos?',
+          opciones: ['Un pueblo enemigo de los israelitas, como el gigante Goliat', 'Unos filósofos griegos', 'Unos comerciantes fenicios'],
+          reliquia: 'Se usa para llamar a quien no aprecia la cultura ni el arte, o a un hombre muy corpulento.'
+        },
+        {
+          expresion: 'Ser un [Séneca]',
+          pregunta: '¿Quién era Séneca?',
+          opciones: ['Un filósofo romano nacido en Córdoba', 'Un general cartaginés', 'Un poeta del Siglo de Oro'],
+          reliquia: 'Lucio Anneo Séneca fue un filósofo estoico del siglo I. Ser un Séneca es ser muy sabio.'
+        }
+      ] },
+
+      // Día 172
+      { reliquias: [
+        {
+          expresion: 'Ser una [perita] en dulce',
+          pregunta: '¿Qué es una «perita en dulce»?',
+          opciones: ['Una pera en almíbar, algo apetecible', 'Una persona muy dulce', 'Una pera pequeña'],
+          reliquia: 'Una pera en almíbar es una golosina deseada. Ser una perita en dulce es ser algo o alguien muy atractivo o valioso.'
+        },
+        {
+          expresion: 'Ser la [Cenicienta]',
+          pregunta: '¿Por qué «Cenicienta»?',
+          opciones: ['Por la joven del cuento que vivía entre las cenizas del hogar', 'Por una diosa del fuego', 'Por un ave de color gris'],
+          reliquia: 'En el cuento, la protagonista hacía las tareas más bajas junto a la chimenea. Ser la Cenicienta es ser el más olvidado o despreciado de un grupo.'
+        },
+        {
+          expresion: 'Tirarse los [trastos] a la cabeza',
+          pregunta: '¿Qué son aquí los «trastos»?',
+          opciones: ['Los utensilios y muebles de la casa', 'Las armas del torero', 'Los juguetes de los niños'],
+          reliquia: 'Los trastos son los cacharros y muebles de una casa. Tirarse los trastos a la cabeza es discutir con violencia.'
+        }
+      ] },
+
+      // Día 173
+      { reliquias: [
+        {
+          expresion: 'Estar en su [salsa]',
+          pregunta: '¿Qué es estar en su «salsa»?',
+          opciones: ['Estar a gusto, en su ambiente', 'Estar cocinando', 'Estar sucio'],
+          reliquia: 'Como el guiso en su salsa, es estar en el ambiente propio.'
+        },
+        {
+          expresion: 'De [lance]',
+          pregunta: '¿Qué es comprar algo «de lance»?',
+          opciones: ['De segunda mano', 'A precio de oro', 'En una subasta'],
+          reliquia: 'Un libro de lance es uno de segunda mano.'
+        },
+        {
+          expresion: 'Más duro que el [pedernal]',
+          pregunta: '¿Qué es el «pedernal»?',
+          opciones: ['Una piedra muy dura que da chispas al golpearla', 'Un metal', 'Un árbol'],
+          reliquia: 'Con el pedernal se encendía el fuego. Ser más duro que el pedernal es ser durísimo, o insensible.'
+        }
+      ] },
+
+      // Día 174
+      { reliquias: [
+        {
+          expresion: 'No quedar ni el [apuntador]',
+          pregunta: '¿Quién era el «apuntador»?',
+          opciones: ['El que en el teatro soplaba el texto a los actores desde la concha', 'El que llevaba las cuentas', 'El escribano'],
+          reliquia: 'En las tragedias en que morían todos, solo quedaba vivo el apuntador. Cuando no queda ni el apuntador, no queda nadie.'
+        },
+        {
+          expresion: 'Ni por el [forro]',
+          pregunta: '¿Qué es el «forro»?',
+          opciones: ['La tela interior de un libro o una prenda', 'La cubierta de un sillón', 'Una capa'],
+          reliquia: 'No conocer un libro ni por el forro es no haberlo abierto nunca. Hoy se dice de cualquier cosa que no se conoce en absoluto.'
+        },
+        {
+          expresion: 'Colgar los [hábitos]',
+          pregunta: '¿Qué son los «hábitos»?',
+          opciones: ['La ropa del fraile o del cura', 'Las costumbres', 'Los uniformes'],
+          reliquia: 'Colgar los hábitos es dejar la vida religiosa y, por extensión, abandonar una profesión.'
+        }
+      ] },
+
+      // Día 175
+      { reliquias: [
+        {
+          expresion: 'Ponerse las [botas]',
+          pregunta: '¿Por qué las «botas»?',
+          opciones: ['Porque eran calzado de caballeros ricos, que comían bien', 'Porque se ponían para una boda', 'Porque las botas de vino se llenaban'],
+          reliquia: 'Antes, solo los ricos llevaban botas de montar. Ponerse las botas es aprovecharse al máximo, sobre todo comiendo.'
+        },
+        {
+          expresion: 'Estar en [dique] seco',
+          pregunta: '¿Qué es un «dique seco»?',
+          opciones: ['Un recinto del puerto que se vacía para reparar barcos', 'Un muro contra las inundaciones', 'Un río sin agua'],
+          reliquia: 'Allí se sacan los barcos del agua para arreglarlos. Estar en dique seco es estar parado, sin poder actuar, a menudo por una lesión.'
+        },
+        {
+          expresion: 'Ir de capa [caída]',
+          pregunta: '¿Por qué «caída»?',
+          opciones: ['Por la capa que cuelga sin vuelo cuando uno va abatido', 'Por el halcón que plegaba las alas', 'Por la capa de un torero herido'],
+          reliquia: 'La capa que cuelga sin garbo es la del que va triste o arruinado. Ir de capa caída es ir a menos.'
+        }
+      ] },
+
+      // Día 176
+      { reliquias: [
+        {
+          expresion: 'De un [plumazo]',
+          pregunta: '¿Qué es un «plumazo»?',
+          opciones: ['Un trazo de la pluma, como el que tacha algo', 'Un golpe con una almohada', 'Una pluma grande'],
+          reliquia: 'Con un trazo de pluma se anulaba un documento. Hacer algo de un plumazo es hacerlo de golpe y sin más.'
+        },
+        {
+          expresion: 'Dar la [lata]',
+          pregunta: '¿Qué tiene que ver la «lata»?',
+          opciones: ['Se cuenta que los soldados guardaban en latas sus largos escritos de quejas', 'Por el ruido de una lata al golpearla', 'Por una lata de conservas caducada'],
+          reliquia: 'Una explicación habla de los largos memoriales que se guardaban en tubos de lata; otra, del ruido que hacen las latas atadas. Dar la lata es molestar con insistencia.'
+        },
+        {
+          expresion: 'A [hombros]',
+          pregunta: '¿Por qué «a hombros»?',
+          opciones: ['Por la costumbre de sacar así a los toreros triunfadores', 'Por los porteadores de antes', 'Por un juego de niños'],
+          reliquia: 'Sacar a alguien a hombros es llevarlo en triunfo.'
+        }
+      ] },
+
+      // Día 177
+      { reliquias: [
+        {
+          expresion: 'Al [tran tran]',
+          pregunta: '¿Qué es el «tran tran»?',
+          opciones: ['Un ritmo lento y monótono', 'Un tren pequeño', 'Un tambor'],
+          reliquia: 'Es una onomatopeya del paso cansino. Ir al tran tran es ir despacio y sin prisa.'
+        },
+        {
+          expresion: 'Eso es otro [cantar]',
+          pregunta: '¿Qué era un «cantar»?',
+          opciones: ['Una composición poética, como los cantares de gesta', 'Un pájaro', 'Un juego de canciones'],
+          reliquia: 'Los cantares eran poemas que se recitaban o cantaban. Decir que algo es otro cantar es decir que se trata de un asunto distinto.'
+        },
+        {
+          expresion: 'En [batería]',
+          pregunta: '¿Qué es aparcar «en batería»?',
+          opciones: ['Uno al lado de otro, en paralelo', 'En fila', 'En doble fila'],
+          reliquia: 'Como los cañones de una batería, colocados uno junto a otro.'
+        }
+      ] },
+
+      // Día 178
+      { reliquias: [
+        {
+          expresion: 'No ser de [recibo]',
+          pregunta: '¿Qué es aquí «recibo»?',
+          opciones: ['Lo que se puede aceptar o admitir', 'Un justificante de pago', 'Una visita'],
+          reliquia: '«De recibo» es lo que reúne las condiciones para ser aceptado. Algo que no es de recibo es inadmisible.'
+        },
+        {
+          expresion: 'No dejar [títere] con cabeza',
+          pregunta: '¿Qué es un «títere»?',
+          opciones: ['Un muñeco de guiñol', 'Un soldado', 'Un bufón'],
+          reliquia: 'Viene de la escena del Quijote en que don Quijote destroza a espadazos el retablo de maese Pedro. No dejar títere con cabeza es destrozarlo todo.'
+        },
+        {
+          expresion: 'Arda [Troya]',
+          pregunta: '¿Qué pasó en Troya?',
+          opciones: ['Fue incendiada por los griegos al final de la guerra', 'Fue fundada por los romanos', 'Fue arrasada por un terremoto'],
+          reliquia: 'Según la Ilíada y la Eneida, Troya ardió tras el engaño del caballo. ¡Arda Troya! se dice cuando uno decide hacer algo pase lo que pase.'
+        }
+      ] },
+
+      // Día 179
+      { reliquias: [
+        {
+          expresion: 'No estar para [trotes]',
+          pregunta: '¿Qué son los «trotes»?',
+          opciones: ['Los ajetreos, como el trote de un caballo', 'Los bailes', 'Las carreras de caballos'],
+          reliquia: 'No estar para trotes es no estar ya para esfuerzos, sobre todo por la edad.'
+        },
+        {
+          expresion: 'De golpe y [porrazo]',
+          pregunta: '¿Qué es un «porrazo»?',
+          opciones: ['Un golpe fuerte, como el de una porra', 'Un portazo', 'Una caída de un caballo'],
+          reliquia: 'De golpe y porrazo es de repente, sin aviso.'
+        },
+        {
+          expresion: 'Pagar el [pato]',
+          pregunta: '¿Qué hace quien «paga el pato»?',
+          opciones: ['Carga con la culpa de otro', 'Invita a comer', 'Paga una deuda antigua'],
+          reliquia: 'Pagar el pato es sufrir las consecuencias de lo que ha hecho otro. Su origen es discutido; una explicación lo relaciona con «pacto».'
+        }
+      ] },
+
+      // Día 180
+      { reliquias: [
+        {
+          expresion: 'Dar la [vara]',
+          pregunta: '¿Qué es aquí la «vara»?',
+          opciones: ['El palo con que se arreaba al ganado', 'Una medida de longitud', 'El bastón del alcalde'],
+          reliquia: 'Con la vara se pinchaba a las bestias para que avanzaran. Dar la vara es molestar o insistir mucho.'
+        },
+        {
+          expresion: 'Más tieso que un [ajo]',
+          pregunta: '¿Por qué el «ajo»?',
+          opciones: ['Por el tallo derecho y rígido de la planta', 'Por su olor fuerte', 'Porque se seca al sol'],
+          reliquia: 'Se dice de quien va muy estirado o muy orgulloso.'
+        },
+        {
+          expresion: 'Ser un [judas]',
+          pregunta: '¿Por qué «judas»?',
+          opciones: ['Por el apóstol que traicionó a Jesús', 'Por un rey de Israel', 'Por un mercader famoso'],
+          reliquia: 'Judas Iscariote vendió a Jesús por treinta monedas. Un judas es un traidor.'
+        }
       ] }
     ]
   };
